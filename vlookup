@@ -1,0 +1,14 @@
+Class/Subjects	8:00 AM - 8:45 AM	8:45 AM - 9:30 AM	9:30 AM - 10:15 AM	10:15 AM - 11:00 AM	11:00 AM - 11:15 AM (Break)	11:15 AM - 12:00 PM	12:00 PM - 12:45 PM	12:45 PM - 1:30 PM	1:30 PM - 2:15 PM
+Mathematics	Mathematics (Ms. Johnson)	Mathematics (Mr. Smith)	Mathematics (Mrs. Lee)	Mathematics (Mr. Brown)	Break	Mathematics (Mr. Wilson)	Mathematics (Ms. Taylor)	Mathematics (Mr. White)	Mathematics (Ms. Johnson)
+Science	Science (Mr. Smith)	Science (Mrs. Lee)	Science (Mr. Brown)	Science (Ms. Davis)	Break	Science (Ms. Taylor)	Science (Mr. White)	Science (Ms. Johnson)	Science (Mr. Smith)
+English	English (Mrs. Lee)	English (Mr. Brown)	English (Ms. Davis)	English (Mr. Wilson)	Break	English (Mr. White)	English (Ms. Johnson)	English (Mr. Smith)	English (Mrs. Lee)
+History	History (Mr. Brown)	History (Ms. Davis)	History (Mr. Wilson)	History (Ms. Taylor)	Break	History (Ms. Johnson)	History (Mr. Smith)	History (Mrs. Lee)	History (Mr. Brown)
+Geography	Geography (Ms. Davis)	Geography (Mr. Wilson)	Geography (Ms. Taylor)	Geography (Mr. White)	Break	Geography (Mr. Smith)	Geography (Mrs. Lee)	Geography (Mr. Brown)	Geography (Ms. Davis)
+Physical Education	Physical Education (Mr. Wilson)	Physical Education (Ms. Taylor)	Physical Education (Mr. White)	Physical Education (Ms. Johnson)	Break	Physical Education (Mrs. Lee)	Physical Education (Mr. Brown)	Physical Education (Ms. Davis)	Physical Education (Mr. Wilson)
+Art	Art (Ms. Taylor)	Art (Mr. White)	Art (Ms. Johnson)	Art (Mr. Smith)	Break	Art (Mr. Brown)	Art (Ms. Davis)	Art (Mr. Wilson)	Art (Ms. Taylor)
+Computer Science	Computer Science (Mr. White)	Computer Science (Ms. Johnson)	Computer Science (Mr. Smith)	Computer Science (Mrs. Lee)	Break	Computer Science (Ms. Davis)	Computer Science (Mr. Wilson)	Computer Science (Ms. Taylor)	Computer Science (Mr. White)
+									
+									
+			row	3					
+	Class/Subjects	8:00 AM - 8:45 AM	coloum	2					
+	Science	Science (Mr. Smith)							
