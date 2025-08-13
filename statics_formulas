@@ -1,0 +1,1001 @@
+Sale Date	Customer Name	City	State	Region	Product Category	Product Name	Quantity	Price per Unit	Sales Amount			State			Product Category		
+25-06-2023	Meera	Nagpur	Maharashtra	West	Furniture	Table	6	4016.25	24097.5			Maharashtra	207		Furniture		
+01-11-2023	Vihaan	Coimbatore	Tamil Nadu	South	Stationery	Ruler	9	3801.85	34216.65			Tamil Nadu	208		Stationery		
+06-04-2023	Nishant	Bengaluru	Karnataka	South	Stationery	Ruler	11	3594.07	39534.77			Karnataka	212		Clothing		
+15-10-2023	Vihaan	Madurai	Tamil Nadu	South	Clothing	Dress	9	4487	40383			Gujarat	180		Groceries		
+07-08-2023	Aditi	Mumbai	Maharashtra	West	Groceries	Lentils	17	1240.77	21093.09			Delhi	193		Electronics		
+23-12-2023	Ishita	Chennai	Tamil Nadu	South	Stationery	Eraser	7	4772.29	33406.03								
+01-05-2023	Aarav	Mysuru	Karnataka	South	Electronics	Headphones	5	2196.99	10984.95			Furniture	Stationery	Clothing	Groceries	Electronics	
+23-12-2023	Riya	Ahmedabad	Gujarat	West	Clothing	Dress	5	967.6	4838		Maharashtra	44	41	49	34	39	
+23-10-2023	Vihaan	Madurai	Tamil Nadu	South	Stationery	Ruler	18	3128.59	56314.62		Tamil Nadu	41	33	45	43	46	
+17-11-2023	Nishant	Chennai	Tamil Nadu	South	Furniture	Table	10	2754.3	27543		Karnataka	42	46	42	42	40	
+15-02-2023	Vihaan	Ahmedabad	Gujarat	West	Electronics	Laptop	19	4896.31	93029.89		Gujarat	32	35	41	36	36	
+21-04-2023	Aarav	Mysuru	Karnataka	South	Clothing	Pants	19	4562.02	86678.38		Delhi	46	39	33	34	41	
+12-01-2023	Ishita	Mumbai	Maharashtra	West	Stationery	Eraser	6	4231.77	25390.62								
+26-01-2023	Aryan	Ahmedabad	Gujarat	West	Clothing	Shirt	20	1027.53	20550.6								
+27-05-2023	Ananya	Nagpur	Maharashtra	West	Clothing	Pants	7	1257.34	8801.38								
+28-11-2023	Aarav	Dwarka	Delhi	North	Clothing	Shirt	9	2634.14	23707.26								
+02-06-2023	Aditi	Pune	Maharashtra	West	Furniture	Table	11	4509.49	49604.39								
+24-02-2023	Ishita	Surat	Gujarat	West	Groceries	Rice	3	2738.83	8216.49								
+17-02-2023	Ishita	Nagpur	Maharashtra	West	Clothing	Dress	10	4247.74	42477.4								
+15-02-2023	Nishant	Mysuru	Karnataka	South	Stationery	Eraser	3	1133.19	3399.57								
+19-02-2023	Kabir	Karol Bagh	Delhi	North	Electronics	Laptop	6	623.22	3739.32								
+28-04-2023	Aditi	Coimbatore	Tamil Nadu	South	Stationery	Ruler	18	698.42	12571.56								
+06-12-2023	Riya	Hubli	Karnataka	South	Groceries	Sugar	19	2494.11	47388.09								
+24-06-2023	Aarav	Chennai	Tamil Nadu	South	Groceries	Sugar	15	3368.77	50531.55								
+27-03-2023	Nishant	Mysuru	Karnataka	South	Furniture	Bed	2	962.28	1924.56								
+01-04-2023	Kabir	Pune	Maharashtra	West	Clothing	Shirt	19	1065.27	20240.13								
+17-12-2023	Kabir	Ahmedabad	Gujarat	West	Groceries	Rice	10	4507.62	45076.2								
+21-07-2023	Aditi	Karol Bagh	Delhi	North	Clothing	Pants	4	4373.75	17495								
+29-08-2023	Aryan	Coimbatore	Tamil Nadu	South	Clothing	Pants	4	791.28	3165.12								
+06-05-2023	Riya	Mysuru	Karnataka	South	Groceries	Lentils	14	4868.33	68156.62								
+28-11-2023	Aarav	Dwarka	Delhi	North	Clothing	Shirt	12	1958.77	23505.24								
+13-01-2023	Nishant	Pune	Maharashtra	West	Stationery	Eraser	10	3690.75	36907.5								
+20-06-2023	Nishant	Ahmedabad	Gujarat	West	Stationery	Eraser	17	1037.05	17629.85								
+11-01-2023	Ananya	Hubli	Karnataka	South	Groceries	Oil	17	2215.55	37664.35								
+30-11-2023	Ananya	Madurai	Tamil Nadu	South	Clothing	Jacket	19	1343.6	25528.4								
+10-05-2023	Ananya	Nagpur	Maharashtra	West	Groceries	Lentils	8	4455.43	35643.44								
+24-01-2023	Riya	Chennai	Tamil Nadu	South	Stationery	Pen	9	3892.79	35035.11								
+06-12-2023	Riya	Karol Bagh	Delhi	North	Electronics	Laptop	9	4618.59	41567.31								
+23-08-2023	Aryan	Hubli	Karnataka	South	Clothing	Jacket	11	3385.93	37245.23								
+18-02-2023	Riya	Ahmedabad	Gujarat	West	Stationery	Eraser	14	2452.98	34341.72								
+04-08-2023	Meera	Bengaluru	Karnataka	South	Electronics	Headphones	16	695.96	11135.36								
+01-03-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Smartphone	1	1979.54	1979.54								
+31-03-2023	Aarav	Karol Bagh	Delhi	North	Stationery	Ruler	9	3727.82	33550.38								
+15-04-2023	Meera	Surat	Gujarat	West	Groceries	Oil	1	1495.61	1495.61								
+28-12-2023	Aryan	Mumbai	Maharashtra	West	Clothing	Pants	18	1928.15	34706.7								
+04-03-2023	Ishita	Mumbai	Maharashtra	West	Stationery	Eraser	1	4192.39	4192.39								
+04-02-2023	Aryan	Chennai	Tamil Nadu	South	Electronics	Tablet	7	4988.71	34920.97								
+19-04-2023	Riya	Hubli	Karnataka	South	Clothing	Pants	9	1328.13	11953.17								
+21-09-2023	Aryan	Pune	Maharashtra	West	Furniture	Sofa	9	722.44	6501.96								
+21-10-2023	Nishant	Nagpur	Maharashtra	West	Clothing	Pants	2	4726.06	9452.12								
+06-02-2023	Riya	Bengaluru	Karnataka	South	Clothing	Shirt	3	2263.47	6790.41								
+26-04-2023	Nishant	Mysuru	Karnataka	South	Furniture	Bed	20	4365.58	87311.6								
+16-01-2023	Ananya	New Delhi	Delhi	North	Electronics	Headphones	20	3925.65	78513								
+03-10-2023	Vihaan	Chennai	Tamil Nadu	South	Furniture	Sofa	3	3613.98	10841.94								
+11-06-2023	Aryan	Mumbai	Maharashtra	West	Stationery	Pen	7	2483.54	17384.78								
+02-10-2023	Ishita	Dwarka	Delhi	North	Furniture	Sofa	14	2145.21	30032.94								
+24-11-2023	Aryan	Hubli	Karnataka	South	Electronics	Smartphone	8	4997.45	39979.6								
+09-07-2023	Ananya	Ahmedabad	Gujarat	West	Electronics	Laptop	3	1753.98	5261.94								
+20-04-2023	Aarav	Mysuru	Karnataka	South	Electronics	Smartphone	2	1207.92	2415.84								
+10-03-2023	Aditi	Pune	Maharashtra	West	Electronics	Tablet	13	4196.33	54552.29								
+03-05-2023	Kabir	Vadodara	Gujarat	West	Stationery	Ruler	18	1310.78	23594.04								
+29-10-2023	Ananya	Pune	Maharashtra	West	Furniture	Sofa	20	2142.9	42858								
+03-12-2023	Kabir	New Delhi	Delhi	North	Electronics	Tablet	19	1359.7	25834.3								
+26-05-2023	Meera	Hubli	Karnataka	South	Furniture	Sofa	16	4896.07	78337.12								
+26-12-2023	Ishita	Bengaluru	Karnataka	South	Stationery	Pen	8	4216.03	33728.24								
+05-08-2023	Aditi	Pune	Maharashtra	West	Groceries	Rice	14	2134.06	29876.84								
+25-04-2023	Kabir	Dwarka	Delhi	North	Furniture	Bed	6	1523.33	9139.98								
+27-04-2023	Nishant	Madurai	Tamil Nadu	South	Groceries	Lentils	13	646.63	8406.19								
+31-03-2023	Aarav	Hubli	Karnataka	South	Stationery	Notebook	4	4965.34	19861.36								
+26-06-2023	Aryan	Pune	Maharashtra	West	Stationery	Eraser	14	2883.11	40363.54								
+18-06-2023	Ishita	Karol Bagh	Delhi	North	Groceries	Rice	9	2819.87	25378.83								
+17-11-2023	Aditi	Mumbai	Maharashtra	West	Clothing	Dress	12	3961.23	47534.76								
+02-03-2023	Aarav	Madurai	Tamil Nadu	South	Clothing	Dress	15	2194.72	32920.8								
+18-03-2023	Ishita	Mysuru	Karnataka	South	Electronics	Smartphone	5	3058.74	15293.7								
+10-12-2023	Riya	Mumbai	Maharashtra	West	Clothing	Dress	11	827.59	9103.49								
+30-10-2023	Aryan	Madurai	Tamil Nadu	South	Electronics	Tablet	10	2008.29	20082.9								
+24-02-2023	Riya	Surat	Gujarat	West	Clothing	Pants	3	4157.17	12471.51								
+07-02-2023	Aditi	Hubli	Karnataka	South	Furniture	Chair	19	2880.28	54725.32								
+25-08-2023	Kabir	Ahmedabad	Gujarat	West	Electronics	Laptop	6	1212.76	7276.56								
+15-09-2023	Ishita	Vadodara	Gujarat	West	Electronics	Smartphone	11	4463.48	49098.28								
+11-06-2023	Aryan	Mysuru	Karnataka	South	Stationery	Eraser	17	3975.74	67587.58								
+19-07-2023	Meera	Coimbatore	Tamil Nadu	South	Clothing	Shirt	15	2158.22	32373.3								
+17-05-2023	Nishant	Surat	Gujarat	West	Clothing	Pants	17	1720.9	29255.3								
+30-06-2023	Riya	Mumbai	Maharashtra	West	Clothing	Dress	11	3562.92	39192.12								
+29-11-2023	Ishita	Mumbai	Maharashtra	West	Stationery	Eraser	17	608.79	10349.43								
+19-04-2023	Aarav	Ahmedabad	Gujarat	West	Groceries	Lentils	20	4856.17	97123.4								
+27-04-2023	Kabir	Dwarka	Delhi	North	Stationery	Ruler	12	4298	51576								
+04-04-2023	Ishita	Karol Bagh	Delhi	North	Electronics	Smartphone	7	1160.35	8122.45								
+07-08-2023	Riya	Dwarka	Delhi	North	Clothing	Pants	3	2488.34	7465.02								
+19-07-2023	Nishant	Coimbatore	Tamil Nadu	South	Furniture	Sofa	8	1990	15920								
+13-03-2023	Aarav	Vadodara	Gujarat	West	Electronics	Smartphone	20	2446.21	48924.2								
+22-10-2023	Aditi	Hubli	Karnataka	South	Stationery	Notebook	11	1841.84	20260.24								
+01-12-2023	Aarav	New Delhi	Delhi	North	Electronics	Headphones	5	3289.83	16449.15								
+29-03-2023	Riya	Mumbai	Maharashtra	West	Groceries	Sugar	6	549.8	3298.8								
+03-02-2023	Aryan	Madurai	Tamil Nadu	South	Electronics	Headphones	20	4397.46	87949.2								
+11-05-2023	Riya	Bengaluru	Karnataka	South	Groceries	Lentils	3	3107.88	9323.64								
+24-11-2023	Meera	Surat	Gujarat	West	Furniture	Chair	11	1451.86	15970.46								
+03-07-2023	Riya	Coimbatore	Tamil Nadu	South	Groceries	Oil	13	4087.03	53131.39								
+02-09-2023	Meera	Dwarka	Delhi	North	Stationery	Ruler	12	3040.08	36480.96								
+30-10-2023	Aarav	New Delhi	Delhi	North	Groceries	Sugar	19	3968.42	75399.98								
+15-07-2023	Kabir	Mysuru	Karnataka	South	Electronics	Laptop	4	894.64	3578.56								
+03-11-2023	Riya	Mysuru	Karnataka	South	Groceries	Oil	20	1787.99	35759.8								
+13-06-2023	Meera	Mumbai	Maharashtra	West	Furniture	Bed	17	2910.12	49472.04								
+03-02-2023	Kabir	Coimbatore	Tamil Nadu	South	Groceries	Lentils	16	827.8	13244.8								
+09-05-2023	Nishant	Dwarka	Delhi	North	Stationery	Eraser	18	3093.44	55681.92								
+20-01-2023	Riya	Chennai	Tamil Nadu	South	Clothing	Shirt	10	2469.04	24690.4								
+16-05-2023	Nishant	Chennai	Tamil Nadu	South	Stationery	Ruler	12	2127.28	25527.36								
+18-01-2023	Aarav	Chennai	Tamil Nadu	South	Electronics	Laptop	1	1811.76	1811.76								
+29-05-2023	Ananya	Hubli	Karnataka	South	Furniture	Bed	4	4485.82	17943.28								
+03-09-2023	Ananya	Mysuru	Karnataka	South	Electronics	Laptop	8	4649.35	37194.8								
+24-03-2023	Vihaan	Madurai	Tamil Nadu	South	Furniture	Chair	3	4027.17	12081.51								
+14-11-2023	Ananya	New Delhi	Delhi	North	Electronics	Smartphone	14	4406.29	61688.06								
+31-05-2023	Vihaan	Chennai	Tamil Nadu	South	Groceries	Sugar	20	4072.4	81448								
+21-06-2023	Ishita	New Delhi	Delhi	North	Groceries	Oil	1	4801.38	4801.38								
+06-01-2023	Riya	Bengaluru	Karnataka	South	Clothing	Shirt	17	828.26	14080.42								
+09-01-2023	Aditi	Surat	Gujarat	West	Groceries	Sugar	13	4331.5	56309.5								
+03-09-2023	Ishita	Pune	Maharashtra	West	Clothing	Shirt	14	3404.4	47661.6								
+30-01-2023	Ananya	Nagpur	Maharashtra	West	Furniture	Chair	20	3734.44	74688.8								
+26-02-2023	Kabir	Nagpur	Maharashtra	West	Furniture	Bed	6	112.76	676.56								
+15-12-2023	Kabir	Karol Bagh	Delhi	North	Electronics	Headphones	6	4751.77	28510.62								
+08-07-2023	Nishant	Surat	Gujarat	West	Groceries	Sugar	4	3214.1	12856.4								
+23-09-2023	Meera	Karol Bagh	Delhi	North	Electronics	Laptop	20	598.97	11979.4								
+15-04-2023	Kabir	Nagpur	Maharashtra	West	Furniture	Bed	15	1513.67	22705.05								
+14-03-2023	Riya	Vadodara	Gujarat	West	Clothing	Pants	6	194.62	1167.72								
+01-12-2023	Aryan	Vadodara	Gujarat	West	Clothing	Pants	6	4508.3	27049.8								
+11-09-2023	Aarav	Ahmedabad	Gujarat	West	Furniture	Chair	20	4055.72	81114.4								
+03-10-2023	Riya	Madurai	Tamil Nadu	South	Furniture	Chair	8	2986.89	23895.12								
+25-04-2023	Ishita	Dwarka	Delhi	North	Electronics	Smartphone	7	4933.06	34531.42								
+25-09-2023	Ananya	Bengaluru	Karnataka	South	Stationery	Ruler	4	4837.17	19348.68								
+04-10-2023	Riya	Karol Bagh	Delhi	North	Stationery	Ruler	1	4813.23	4813.23								
+27-03-2023	Riya	Mysuru	Karnataka	South	Clothing	Jacket	16	3158.66	50538.56								
+06-09-2023	Vihaan	Nagpur	Maharashtra	West	Electronics	Laptop	6	2920.43	17522.58								
+07-12-2023	Vihaan	Nagpur	Maharashtra	West	Clothing	Pants	12	2170.02	26040.24								
+14-05-2023	Ishita	Nagpur	Maharashtra	West	Electronics	Headphones	2	4542.61	9085.22								
+23-12-2023	Nishant	Pune	Maharashtra	West	Electronics	Headphones	1	3091.48	3091.48								
+04-01-2023	Riya	Surat	Gujarat	West	Furniture	Table	3	2205.6	6616.8								
+22-07-2023	Nishant	Nagpur	Maharashtra	West	Electronics	Smartphone	10	4282.18	42821.8								
+18-11-2023	Ishita	Bengaluru	Karnataka	South	Stationery	Ruler	5	4252.84	21264.2								
+08-01-2023	Vihaan	New Delhi	Delhi	North	Furniture	Chair	3	916.33	2748.99								
+13-04-2023	Vihaan	Ahmedabad	Gujarat	West	Furniture	Chair	3	1270.15	3810.45								
+11-02-2023	Nishant	Coimbatore	Tamil Nadu	South	Furniture	Bed	6	1750.35	10502.1								
+31-10-2023	Meera	Coimbatore	Tamil Nadu	South	Groceries	Lentils	6	1105.03	6630.18								
+26-03-2023	Riya	Coimbatore	Tamil Nadu	South	Furniture	Table	17	1801.69	30628.73								
+09-07-2023	Aryan	Hubli	Karnataka	South	Electronics	Headphones	19	717.29	13628.51								
+22-10-2023	Nishant	Vadodara	Gujarat	West	Stationery	Pen	2	4547.16	9094.32								
+04-11-2023	Riya	New Delhi	Delhi	North	Clothing	Dress	2	4818.49	9636.98								
+10-11-2023	Aditi	Chennai	Tamil Nadu	South	Stationery	Ruler	14	1410.91	19752.74								
+20-03-2023	Kabir	Bengaluru	Karnataka	South	Clothing	Dress	20	239.35	4787								
+02-06-2023	Ishita	Vadodara	Gujarat	West	Stationery	Pen	16	4096.74	65547.84								
+19-01-2023	Ishita	Chennai	Tamil Nadu	South	Stationery	Eraser	14	3507.25	49101.5								
+14-02-2023	Aditi	Pune	Maharashtra	West	Stationery	Pen	16	4507.37	72117.92								
+26-05-2023	Ishita	New Delhi	Delhi	North	Furniture	Bed	10	239.55	2395.5								
+18-06-2023	Meera	Nagpur	Maharashtra	West	Stationery	Eraser	17	679.78	11556.26								
+25-11-2023	Ishita	Mysuru	Karnataka	South	Furniture	Chair	18	2658.57	47854.26								
+16-05-2023	Aryan	Coimbatore	Tamil Nadu	South	Furniture	Table	18	4937.99	88883.82								
+14-11-2023	Aryan	Surat	Gujarat	West	Furniture	Sofa	17	3421.31	58162.27								
+18-11-2023	Kabir	Karol Bagh	Delhi	North	Electronics	Headphones	4	1555.9	6223.6								
+30-05-2023	Aarav	Pune	Maharashtra	West	Electronics	Headphones	12	932.42	11189.04								
+21-06-2023	Ishita	Mysuru	Karnataka	South	Furniture	Chair	20	459.48	9189.6								
+29-03-2023	Vihaan	Bengaluru	Karnataka	South	Electronics	Smartphone	5	568.87	2844.35								
+17-05-2023	Nishant	Hubli	Karnataka	South	Clothing	Jacket	10	1468.96	14689.6								
+22-07-2023	Kabir	Karol Bagh	Delhi	North	Furniture	Chair	6	3080.25	18481.5								
+28-10-2023	Kabir	Bengaluru	Karnataka	South	Clothing	Pants	11	1817.43	19991.73								
+15-03-2023	Meera	New Delhi	Delhi	North	Stationery	Pen	19	3800.55	72210.45								
+14-07-2023	Aarav	Vadodara	Gujarat	West	Electronics	Headphones	17	2809.13	47755.21								
+06-06-2023	Nishant	Mysuru	Karnataka	South	Stationery	Ruler	9	4712.98	42416.82								
+02-12-2023	Nishant	Vadodara	Gujarat	West	Electronics	Tablet	1	4541.77	4541.77								
+03-03-2023	Riya	Dwarka	Delhi	North	Electronics	Laptop	9	3122.72	28104.48								
+20-03-2023	Aarav	Mumbai	Maharashtra	West	Stationery	Pen	9	4198.92	37790.28								
+04-03-2023	Ishita	Coimbatore	Tamil Nadu	South	Furniture	Sofa	17	4415.85	75069.45								
+25-10-2023	Ananya	Bengaluru	Karnataka	South	Groceries	Sugar	16	4684.86	74957.76								
+23-12-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Bed	17	4156.25	70656.25								
+05-05-2023	Nishant	Coimbatore	Tamil Nadu	South	Stationery	Pen	10	3776.8	37768								
+24-01-2023	Aryan	Surat	Gujarat	West	Electronics	Headphones	8	310.33	2482.64								
+05-05-2023	Ishita	Vadodara	Gujarat	West	Groceries	Rice	5	1313.4	6567								
+19-10-2023	Kabir	Nagpur	Maharashtra	West	Groceries	Sugar	6	2332.11	13992.66								
+29-04-2023	Vihaan	New Delhi	Delhi	North	Stationery	Notebook	3	4955.22	14865.66								
+13-11-2023	Vihaan	Nagpur	Maharashtra	West	Furniture	Table	17	3827.64	65069.88								
+04-09-2023	Meera	Surat	Gujarat	West	Clothing	Dress	17	3857.33	65574.61								
+26-11-2023	Nishant	Madurai	Tamil Nadu	South	Clothing	Shirt	8	1421.21	11369.68								
+27-06-2023	Vihaan	Mumbai	Maharashtra	West	Groceries	Oil	1	1544.87	1544.87								
+29-07-2023	Nishant	Surat	Gujarat	West	Groceries	Sugar	14	2764.71	38705.94								
+04-07-2023	Aarav	Mysuru	Karnataka	South	Clothing	Dress	9	2210.8	19897.2								
+02-01-2023	Nishant	Chennai	Tamil Nadu	South	Furniture	Chair	3	4359.9	13079.7								
+27-03-2023	Aryan	Bengaluru	Karnataka	South	Furniture	Table	7	3836.77	26857.39								
+18-10-2023	Riya	Surat	Gujarat	West	Stationery	Pen	7	560.58	3924.06								
+12-06-2023	Ishita	Dwarka	Delhi	North	Electronics	Headphones	17	1574.45	26765.65								
+02-03-2023	Aditi	Dwarka	Delhi	North	Furniture	Table	17	578.67	9837.39								
+26-12-2023	Riya	Coimbatore	Tamil Nadu	South	Groceries	Lentils	19	1441.02	27379.38								
+18-09-2023	Meera	Chennai	Tamil Nadu	South	Furniture	Sofa	19	618.02	11742.38								
+14-02-2023	Aryan	Vadodara	Gujarat	West	Stationery	Eraser	15	4093.93	61408.95								
+30-01-2023	Vihaan	Ahmedabad	Gujarat	West	Furniture	Bed	16	2714.37	43429.92								
+21-06-2023	Aarav	Vadodara	Gujarat	West	Clothing	Dress	8	4658.57	37268.56								
+12-08-2023	Riya	Nagpur	Maharashtra	West	Stationery	Notebook	20	3203.76	64075.2								
+28-11-2023	Riya	Karol Bagh	Delhi	North	Electronics	Smartphone	5	3572.02	17860.1								
+25-01-2023	Meera	Surat	Gujarat	West	Groceries	Oil	4	328.82	1315.28								
+06-06-2023	Meera	New Delhi	Delhi	North	Stationery	Eraser	10	4210.63	42106.3								
+22-03-2023	Aditi	Bengaluru	Karnataka	South	Clothing	Dress	15	211.9	3178.5								
+17-01-2023	Kabir	Karol Bagh	Delhi	North	Furniture	Table	6	1847.42	11084.52								
+19-12-2023	Vihaan	Karol Bagh	Delhi	North	Groceries	Rice	15	3875.6	58134								
+17-07-2023	Aarav	Karol Bagh	Delhi	North	Stationery	Eraser	1	1323.63	1323.63								
+03-03-2023	Ananya	Surat	Gujarat	West	Electronics	Smartphone	18	3916.11	70489.98								
+17-03-2023	Nishant	Ahmedabad	Gujarat	West	Furniture	Sofa	16	4624.91	73998.56								
+21-04-2023	Nishant	Nagpur	Maharashtra	West	Stationery	Notebook	8	4091.1	32728.8								
+19-08-2023	Meera	Nagpur	Maharashtra	West	Furniture	Sofa	16	3369.55	53912.8								
+10-10-2023	Ishita	Hubli	Karnataka	South	Furniture	Bed	3	3591.92	10775.76								
+16-08-2023	Aryan	Mumbai	Maharashtra	West	Clothing	Dress	4	4298.35	17193.4								
+07-08-2023	Meera	Surat	Gujarat	West	Stationery	Pen	11	3687.73	40565.03								
+19-10-2023	Vihaan	Ahmedabad	Gujarat	West	Groceries	Oil	12	548.36	6580.32								
+09-06-2023	Riya	Bengaluru	Karnataka	South	Clothing	Dress	6	3931.61	23589.66								
+11-07-2023	Meera	Nagpur	Maharashtra	West	Clothing	Pants	18	1120.1	20161.8								
+13-02-2023	Ananya	Mysuru	Karnataka	South	Stationery	Notebook	11	1473.35	16206.85								
+16-09-2023	Aditi	Surat	Gujarat	West	Electronics	Laptop	6	297.27	1783.62								
+25-12-2023	Meera	Mumbai	Maharashtra	West	Groceries	Rice	5	4872.89	24364.45								
+15-07-2023	Aarav	Dwarka	Delhi	North	Groceries	Sugar	20	4711.51	94230.2								
+14-11-2023	Kabir	Surat	Gujarat	West	Electronics	Laptop	5	4096.54	20482.7								
+15-10-2023	Riya	Dwarka	Delhi	North	Groceries	Sugar	6	830.82	4984.92								
+03-07-2023	Aryan	Karol Bagh	Delhi	North	Groceries	Lentils	3	4637.38	13912.14								
+02-02-2023	Ananya	Bengaluru	Karnataka	South	Stationery	Ruler	5	3770.1	18850.5								
+30-11-2023	Ishita	Hubli	Karnataka	South	Groceries	Rice	20	285.96	5719.2								
+08-04-2023	Aarav	Karol Bagh	Delhi	North	Furniture	Chair	6	1912.36	11474.16								
+22-06-2023	Vihaan	Vadodara	Gujarat	West	Clothing	Dress	19	3648.27	69317.13								
+04-06-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Sofa	20	473.23	9464.6								
+24-11-2023	Meera	Madurai	Tamil Nadu	South	Electronics	Headphones	16	1870.47	29927.52								
+30-03-2023	Riya	New Delhi	Delhi	North	Groceries	Sugar	18	835.8	15044.4								
+03-07-2023	Kabir	Nagpur	Maharashtra	West	Stationery	Pen	18	4850.91	87316.38								
+21-04-2023	Nishant	Pune	Maharashtra	West	Furniture	Table	10	2200.91	22009.1								
+10-12-2023	Ananya	Mysuru	Karnataka	South	Electronics	Headphones	9	1694.83	15253.47								
+06-02-2023	Kabir	Coimbatore	Tamil Nadu	South	Furniture	Sofa	10	1229.56	12295.6								
+26-01-2023	Kabir	Surat	Gujarat	West	Groceries	Lentils	14	705.15	9872.1								
+22-05-2023	Aryan	Karol Bagh	Delhi	North	Clothing	Pants	19	3485.85	66231.15								
+20-02-2023	Vihaan	Dwarka	Delhi	North	Electronics	Headphones	10	3633.26	36332.6								
+10-09-2023	Aryan	Nagpur	Maharashtra	West	Groceries	Oil	14	1245.9	17442.6								
+27-11-2023	Aditi	Dwarka	Delhi	North	Furniture	Table	4	4553.52	18214.08								
+08-08-2023	Vihaan	Pune	Maharashtra	West	Furniture	Bed	3	1417.18	4251.54								
+23-05-2023	Aarav	Nagpur	Maharashtra	West	Electronics	Tablet	7	1249.36	8745.52								
+21-06-2023	Ishita	Coimbatore	Tamil Nadu	South	Clothing	Jacket	7	3911.96	27383.72								
+27-04-2023	Aditi	Mysuru	Karnataka	South	Clothing	Pants	4	3087.87	12351.48								
+11-11-2023	Aditi	Nagpur	Maharashtra	West	Electronics	Tablet	16	628.15	10050.4								
+30-07-2023	Aarav	Bengaluru	Karnataka	South	Groceries	Oil	15	3100.61	46509.15								
+18-05-2023	Vihaan	Mysuru	Karnataka	South	Clothing	Pants	10	4017.66	40176.6								
+14-08-2023	Vihaan	Hubli	Karnataka	South	Furniture	Bed	3	3389.2	10167.6								
+26-05-2023	Nishant	Nagpur	Maharashtra	West	Groceries	Lentils	20	2441.83	48836.6								
+09-12-2023	Vihaan	New Delhi	Delhi	North	Furniture	Sofa	17	2655.98	45151.66								
+03-01-2023	Vihaan	Mysuru	Karnataka	South	Electronics	Tablet	3	4908.74	14726.22								
+23-09-2023	Aryan	Karol Bagh	Delhi	North	Electronics	Tablet	13	4121.8	53583.4								
+06-03-2023	Kabir	Nagpur	Maharashtra	West	Electronics	Tablet	7	2083.78	14586.46								
+10-02-2023	Aarav	Pune	Maharashtra	West	Clothing	Jacket	4	697.88	2791.52								
+01-04-2023	Kabir	Dwarka	Delhi	North	Electronics	Smartphone	3	3754.7	11264.1								
+13-10-2023	Nishant	Coimbatore	Tamil Nadu	South	Furniture	Chair	20	2449.44	48988.8								
+02-07-2023	Aditi	Chennai	Tamil Nadu	South	Electronics	Laptop	6	2862.86	17177.16								
+15-06-2023	Riya	Chennai	Tamil Nadu	South	Stationery	Ruler	4	4795.4	19181.6								
+12-11-2023	Riya	Dwarka	Delhi	North	Furniture	Sofa	3	672.84	2018.52								
+06-09-2023	Kabir	Hubli	Karnataka	South	Furniture	Chair	5	4423.53	22117.65								
+03-05-2023	Riya	Chennai	Tamil Nadu	South	Furniture	Chair	13	1330.85	17301.05								
+30-08-2023	Kabir	Nagpur	Maharashtra	West	Stationery	Pen	2	1785.76	3571.52								
+22-01-2023	Nishant	Dwarka	Delhi	North	Furniture	Sofa	10	505.39	5053.9								
+25-11-2023	Ishita	Bengaluru	Karnataka	South	Electronics	Smartphone	1	4966.86	4966.86								
+13-09-2023	Nishant	Vadodara	Gujarat	West	Furniture	Bed	5	4988.76	24943.8								
+21-05-2023	Aarav	Mysuru	Karnataka	South	Electronics	Smartphone	18	1745.63	31421.34								
+14-12-2023	Nishant	Mumbai	Maharashtra	West	Clothing	Jacket	2	3024.56	6049.12								
+06-06-2023	Aryan	Coimbatore	Tamil Nadu	South	Stationery	Eraser	15	4599.74	68996.1								
+26-12-2023	Nishant	Dwarka	Delhi	North	Groceries	Oil	18	330.49	5948.82								
+24-12-2023	Aditi	Hubli	Karnataka	South	Clothing	Dress	8	4775.74	38205.92								
+26-10-2023	Kabir	Vadodara	Gujarat	West	Stationery	Eraser	16	2329.86	37277.76								
+21-06-2023	Vihaan	Ahmedabad	Gujarat	West	Electronics	Headphones	16	1426.64	22826.24								
+24-05-2023	Ishita	Vadodara	Gujarat	West	Clothing	Shirt	8	2663.16	21305.28								
+11-03-2023	Ananya	Ahmedabad	Gujarat	West	Clothing	Dress	20	1690.56	33811.2								
+21-01-2023	Ananya	Pune	Maharashtra	West	Clothing	Dress	1	776.08	776.08								
+02-04-2023	Vihaan	Bengaluru	Karnataka	South	Groceries	Sugar	3	1435.01	4305.03								
+07-09-2023	Aditi	Surat	Gujarat	West	Stationery	Pen	16	1473.98	23583.68								
+05-11-2023	Ananya	New Delhi	Delhi	North	Furniture	Bed	6	1822.86	10937.16								
+06-02-2023	Ananya	Madurai	Tamil Nadu	South	Clothing	Pants	13	739.6	9614.8								
+09-03-2023	Aarav	Ahmedabad	Gujarat	West	Groceries	Oil	11	4209.66	46306.26								
+01-03-2023	Vihaan	Hubli	Karnataka	South	Electronics	Laptop	8	4105.17	32841.36								
+26-05-2023	Aarav	Dwarka	Delhi	North	Furniture	Table	2	4100.4	8200.8								
+22-10-2023	Vihaan	Coimbatore	Tamil Nadu	South	Groceries	Lentils	20	2295.08	45901.6								
+11-11-2023	Ananya	Mumbai	Maharashtra	West	Groceries	Rice	20	4970.33	99406.6								
+12-12-2023	Aarav	Vadodara	Gujarat	West	Furniture	Bed	12	3939.5	47274								
+25-10-2023	Riya	Mysuru	Karnataka	South	Electronics	Smartphone	15	1450.75	21761.25								
+05-11-2023	Riya	Madurai	Tamil Nadu	South	Furniture	Table	8	3279.33	26234.64								
+27-01-2023	Ananya	Pune	Maharashtra	West	Clothing	Shirt	7	579.92	4059.44								
+05-02-2023	Riya	Madurai	Tamil Nadu	South	Electronics	Headphones	10	2515.54	25155.4								
+20-03-2023	Aditi	Pune	Maharashtra	West	Groceries	Rice	10	2976.69	29766.9								
+28-04-2023	Aditi	Coimbatore	Tamil Nadu	South	Groceries	Oil	16	4047.21	64755.36								
+10-04-2023	Ishita	Surat	Gujarat	West	Groceries	Sugar	18	2825.07	50851.26								
+21-05-2023	Aarav	Chennai	Tamil Nadu	South	Clothing	Jacket	13	1406.82	18288.66								
+22-04-2023	Kabir	Nagpur	Maharashtra	West	Stationery	Notebook	16	1090.18	17442.88								
+03-02-2023	Aryan	New Delhi	Delhi	North	Electronics	Smartphone	12	3696.43	44357.16								
+09-11-2023	Aditi	Hubli	Karnataka	South	Electronics	Smartphone	7	4535.14	31745.98								
+02-11-2023	Ishita	Coimbatore	Tamil Nadu	South	Groceries	Oil	3	4931.69	14795.07								
+21-04-2023	Kabir	Karol Bagh	Delhi	North	Groceries	Lentils	16	3263.65	52218.4								
+30-04-2023	Nishant	Mumbai	Maharashtra	West	Stationery	Pen	17	4083.07	69412.19								
+18-02-2023	Riya	Pune	Maharashtra	West	Stationery	Ruler	12	528.69	6344.28								
+04-08-2023	Ananya	Madurai	Tamil Nadu	South	Electronics	Tablet	8	528.93	4231.44								
+12-08-2023	Meera	Mumbai	Maharashtra	West	Groceries	Lentils	11	1749.31	19242.41								
+02-12-2023	Meera	Nagpur	Maharashtra	West	Stationery	Ruler	11	2635.95	28995.45								
+15-12-2023	Aarav	Nagpur	Maharashtra	West	Groceries	Lentils	6	2850.31	17101.86								
+13-04-2023	Kabir	Bengaluru	Karnataka	South	Electronics	Laptop	5	1413.03	7065.15								
+31-12-2023	Ishita	Pune	Maharashtra	West	Electronics	Smartphone	14	4541.87	63586.18								
+30-05-2023	Ishita	Dwarka	Delhi	North	Clothing	Shirt	5	3395.71	16978.55								
+07-11-2023	Aditi	Ahmedabad	Gujarat	West	Stationery	Pen	2	4050.46	8100.92								
+03-08-2023	Aryan	Vadodara	Gujarat	West	Clothing	Dress	6	3617.81	21706.86								
+20-08-2023	Aditi	Coimbatore	Tamil Nadu	South	Groceries	Rice	11	1527.71	16804.81								
+06-02-2023	Aryan	New Delhi	Delhi	North	Electronics	Tablet	7	1420.32	9942.24								
+26-01-2023	Ishita	Madurai	Tamil Nadu	South	Electronics	Headphones	17	1336.86	22726.62								
+10-01-2023	Meera	Vadodara	Gujarat	West	Clothing	Dress	15	359.4	5391								
+23-09-2023	Ananya	New Delhi	Delhi	North	Furniture	Chair	6	4109.02	24654.12								
+08-02-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Table	12	3700.23	44402.76								
+30-03-2023	Aditi	Madurai	Tamil Nadu	South	Furniture	Chair	5	221.41	1107.05								
+29-05-2023	Ananya	Hubli	Karnataka	South	Clothing	Dress	12	4446.15	53353.8								
+08-07-2023	Ishita	Hubli	Karnataka	South	Groceries	Lentils	12	2393.97	28727.64								
+12-06-2023	Aarav	Dwarka	Delhi	North	Groceries	Sugar	7	256.57	1795.99								
+25-05-2023	Ananya	Chennai	Tamil Nadu	South	Clothing	Jacket	9	4218.36	37965.24								
+14-07-2023	Ishita	Dwarka	Delhi	North	Clothing	Pants	8	4930.67	39445.36								
+17-09-2023	Vihaan	Madurai	Tamil Nadu	South	Clothing	Pants	2	1264.68	2529.36								
+07-06-2023	Meera	Pune	Maharashtra	West	Stationery	Eraser	16	2192.74	35083.84								
+28-11-2023	Vihaan	Pune	Maharashtra	West	Groceries	Rice	14	3943.42	55207.88								
+03-09-2023	Aryan	Surat	Gujarat	West	Groceries	Oil	11	2951.18	32462.98								
+17-10-2023	Riya	Madurai	Tamil Nadu	South	Groceries	Sugar	11	4325.83	47584.13								
+17-04-2023	Riya	Surat	Gujarat	West	Electronics	Tablet	2	1417.87	2835.74								
+20-10-2023	Riya	Mumbai	Maharashtra	West	Stationery	Ruler	13	2511.64	32651.32								
+01-05-2023	Aryan	Mumbai	Maharashtra	West	Furniture	Table	7	862.76	6039.32								
+01-10-2023	Vihaan	Mysuru	Karnataka	South	Clothing	Jacket	18	1412.15	25418.7								
+12-01-2023	Aryan	Vadodara	Gujarat	West	Stationery	Ruler	6	3295.29	19771.74								
+13-07-2023	Kabir	Coimbatore	Tamil Nadu	South	Stationery	Pen	18	4132.69	74388.42								
+09-10-2023	Nishant	Madurai	Tamil Nadu	South	Electronics	Smartphone	7	1557.83	10904.81								
+20-12-2023	Ananya	Dwarka	Delhi	North	Stationery	Eraser	7	4673.31	32713.17								
+17-03-2023	Nishant	Mumbai	Maharashtra	West	Groceries	Oil	5	3775.72	18878.6								
+29-10-2023	Aryan	Mumbai	Maharashtra	West	Furniture	Bed	6	3524.48	21146.88								
+13-11-2023	Aditi	Surat	Gujarat	West	Electronics	Laptop	1	2961.1	2961.1								
+01-04-2023	Nishant	Bengaluru	Karnataka	South	Stationery	Notebook	13	513.06	6669.78								
+18-05-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Sofa	3	953.26	2859.78								
+14-02-2023	Meera	Karol Bagh	Delhi	North	Stationery	Eraser	2	1189.65	2379.3								
+01-07-2023	Ananya	Bengaluru	Karnataka	South	Stationery	Eraser	1	1915.3	1915.3								
+09-09-2023	Aryan	Chennai	Tamil Nadu	South	Stationery	Pen	8	3927.74	31421.92								
+30-04-2023	Kabir	New Delhi	Delhi	North	Clothing	Jacket	10	2682.33	26823.3								
+03-10-2023	Ananya	Madurai	Tamil Nadu	South	Electronics	Smartphone	6	4086.27	24517.62								
+18-03-2023	Ananya	Madurai	Tamil Nadu	South	Electronics	Headphones	8	827.02	6616.16								
+05-05-2023	Kabir	Karol Bagh	Delhi	North	Groceries	Rice	14	4728.44	66198.16								
+22-02-2023	Aditi	Ahmedabad	Gujarat	West	Furniture	Bed	11	575.73	6333.03								
+16-06-2023	Nishant	Pune	Maharashtra	West	Furniture	Bed	4	578.35	2313.4								
+22-08-2023	Aryan	Madurai	Tamil Nadu	South	Stationery	Ruler	8	3043.72	24349.76								
+25-05-2023	Ishita	Mysuru	Karnataka	South	Furniture	Table	10	3339.72	33397.2								
+12-09-2023	Meera	Karol Bagh	Delhi	North	Furniture	Table	7	2286.4	16004.8								
+16-01-2023	Ananya	Chennai	Tamil Nadu	South	Stationery	Pen	6	4862.26	29173.56								
+27-11-2023	Riya	Hubli	Karnataka	South	Electronics	Laptop	6	3470.44	20822.64								
+29-06-2023	Aarav	Nagpur	Maharashtra	West	Clothing	Pants	5	4175.13	20875.65								
+05-10-2023	Aryan	Bengaluru	Karnataka	South	Groceries	Rice	16	1880.67	30090.72								
+11-08-2023	Riya	New Delhi	Delhi	North	Electronics	Smartphone	7	2187.71	15313.97								
+21-09-2023	Nishant	Hubli	Karnataka	South	Clothing	Shirt	14	1024.22	14339.08								
+30-11-2023	Ananya	Madurai	Tamil Nadu	South	Clothing	Pants	17	544.42	9255.14								
+29-03-2023	Ishita	Mumbai	Maharashtra	West	Stationery	Pen	4	942.96	3771.84								
+10-12-2023	Ananya	Chennai	Tamil Nadu	South	Furniture	Chair	12	1799.38	21592.56								
+15-02-2023	Aditi	Chennai	Tamil Nadu	South	Clothing	Shirt	11	1634.39	17978.29								
+08-10-2023	Kabir	Mumbai	Maharashtra	West	Furniture	Sofa	3	2950.28	8850.84								
+27-09-2023	Aditi	Pune	Maharashtra	West	Groceries	Oil	10	4788	47880								
+29-03-2023	Vihaan	Coimbatore	Tamil Nadu	South	Furniture	Bed	8	1807.67	14461.36								
+02-10-2023	Aarav	Bengaluru	Karnataka	South	Groceries	Oil	19	797.02	15143.38								
+25-11-2023	Vihaan	Coimbatore	Tamil Nadu	South	Electronics	Smartphone	2	1195.99	2391.98								
+06-05-2023	Aryan	Surat	Gujarat	West	Clothing	Jacket	20	2056.65	41133								
+04-03-2023	Aryan	Chennai	Tamil Nadu	South	Furniture	Chair	16	4817.63	77082.08								
+13-06-2023	Vihaan	Mysuru	Karnataka	South	Clothing	Shirt	7	4950.24	34651.68								
+25-08-2023	Aryan	Mumbai	Maharashtra	West	Clothing	Shirt	9	2935.97	26423.73								
+09-12-2023	Kabir	Vadodara	Gujarat	West	Groceries	Lentils	9	3560.8	32047.2								
+08-03-2023	Kabir	Surat	Gujarat	West	Stationery	Notebook	11	4890.92	53800.12								
+20-02-2023	Ishita	Mysuru	Karnataka	South	Clothing	Dress	8	4143.56	33148.48								
+16-04-2023	Ananya	Chennai	Tamil Nadu	South	Groceries	Oil	4	2395.66	9582.64								
+09-08-2023	Ishita	Vadodara	Gujarat	West	Clothing	Pants	18	1582.02	28476.36								
+26-08-2023	Meera	Surat	Gujarat	West	Clothing	Shirt	14	3381.77	47344.78								
+20-04-2023	Kabir	Bengaluru	Karnataka	South	Stationery	Eraser	16	2580.42	41286.72								
+29-06-2023	Riya	Vadodara	Gujarat	West	Clothing	Shirt	3	3838.25	11514.75								
+31-05-2023	Riya	Chennai	Tamil Nadu	South	Groceries	Rice	2	591.6	1183.2								
+23-06-2023	Nishant	New Delhi	Delhi	North	Clothing	Shirt	1	2709.05	2709.05								
+09-08-2023	Aditi	Bengaluru	Karnataka	South	Electronics	Smartphone	5	194.7	973.5								
+26-10-2023	Nishant	Surat	Gujarat	West	Stationery	Eraser	4	900.33	3601.32								
+15-05-2023	Ishita	Madurai	Tamil Nadu	South	Groceries	Lentils	13	3574.45	46467.85								
+13-03-2023	Vihaan	Dwarka	Delhi	North	Electronics	Headphones	20	1637.44	32748.8								
+14-05-2023	Nishant	Hubli	Karnataka	South	Furniture	Sofa	14	3177.8	44489.2								
+24-05-2023	Aarav	Mysuru	Karnataka	South	Electronics	Laptop	1	3382.37	3382.37								
+27-04-2023	Meera	Dwarka	Delhi	North	Stationery	Notebook	19	2816.52	53513.88								
+28-11-2023	Meera	New Delhi	Delhi	North	Groceries	Sugar	13	3417.94	44433.22								
+23-12-2023	Meera	Mysuru	Karnataka	South	Clothing	Jacket	14	917.55	12845.7								
+12-03-2023	Riya	Nagpur	Maharashtra	West	Electronics	Headphones	1	1598.87	1598.87								
+01-10-2023	Riya	Dwarka	Delhi	North	Furniture	Table	7	405.27	2836.89								
+12-10-2023	Riya	Mumbai	Maharashtra	West	Groceries	Rice	5	2819.92	14099.6								
+21-12-2023	Nishant	Mysuru	Karnataka	South	Electronics	Headphones	7	4023.6	28165.2								
+21-09-2023	Aditi	Chennai	Tamil Nadu	South	Groceries	Rice	6	4911.79	29470.74								
+10-11-2023	Aarav	Hubli	Karnataka	South	Furniture	Bed	7	2186.75	15307.25								
+29-10-2023	Kabir	Dwarka	Delhi	North	Stationery	Ruler	9	2304.23	20738.07								
+04-05-2023	Aarav	Mumbai	Maharashtra	West	Electronics	Laptop	6	2282.55	13695.3								
+26-10-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Smartphone	4	4778.23	19112.92								
+01-05-2023	Riya	Coimbatore	Tamil Nadu	South	Clothing	Shirt	11	1286.08	14146.88								
+16-10-2023	Aryan	Pune	Maharashtra	West	Electronics	Tablet	19	1844.31	35041.89								
+02-12-2023	Aryan	Ahmedabad	Gujarat	West	Clothing	Dress	14	148.43	2078.02								
+08-02-2023	Aryan	Vadodara	Gujarat	West	Stationery	Eraser	3	2502.81	7508.43								
+06-05-2023	Kabir	Ahmedabad	Gujarat	West	Furniture	Bed	7	3721.37	26049.59								
+28-06-2023	Aryan	Coimbatore	Tamil Nadu	South	Furniture	Sofa	2	3719.83	7439.66								
+08-10-2023	Nishant	Karol Bagh	Delhi	North	Clothing	Dress	19	2862.47	54386.93								
+28-04-2023	Ishita	Madurai	Tamil Nadu	South	Stationery	Ruler	5	4715.05	23575.25								
+31-12-2023	Nishant	New Delhi	Delhi	North	Groceries	Sugar	11	3314	36454								
+09-05-2023	Aarav	Mysuru	Karnataka	South	Furniture	Table	3	4146.75	12440.25								
+05-08-2023	Aryan	Chennai	Tamil Nadu	South	Electronics	Tablet	4	4062.52	16250.08								
+08-03-2023	Aryan	Hubli	Karnataka	South	Electronics	Tablet	4	3022.21	12088.84								
+04-03-2023	Nishant	Karol Bagh	Delhi	North	Groceries	Rice	7	217.04	1519.28								
+07-08-2023	Aryan	Hubli	Karnataka	South	Groceries	Rice	2	4883.56	9767.12								
+23-01-2023	Kabir	Vadodara	Gujarat	West	Electronics	Smartphone	16	2015.76	32252.16								
+11-06-2023	Ananya	Bengaluru	Karnataka	South	Groceries	Lentils	1	2777.22	2777.22								
+19-12-2023	Vihaan	Bengaluru	Karnataka	South	Furniture	Bed	13	4318.62	56142.06								
+24-10-2023	Kabir	Nagpur	Maharashtra	West	Electronics	Smartphone	15	3225.2	48378								
+22-08-2023	Aarav	Nagpur	Maharashtra	West	Electronics	Smartphone	9	631.99	5687.91								
+05-05-2023	Aditi	Karol Bagh	Delhi	North	Stationery	Pen	16	981	15696								
+12-06-2023	Ananya	Ahmedabad	Gujarat	West	Electronics	Laptop	14	1049.21	14688.94								
+28-06-2023	Kabir	Coimbatore	Tamil Nadu	South	Furniture	Table	3	3276.84	9830.52								
+10-08-2023	Aditi	Mumbai	Maharashtra	West	Electronics	Headphones	10	1693.46	16934.6								
+26-11-2023	Ananya	New Delhi	Delhi	North	Stationery	Pen	15	1790.58	26858.7								
+20-03-2023	Ishita	Ahmedabad	Gujarat	West	Furniture	Bed	16	1018.83	16301.28								
+07-02-2023	Aarav	Hubli	Karnataka	South	Electronics	Tablet	6	1246.59	7479.54								
+13-01-2023	Aryan	Coimbatore	Tamil Nadu	South	Groceries	Sugar	14	859.79	12037.06								
+09-11-2023	Meera	New Delhi	Delhi	North	Clothing	Pants	12	149.16	1789.92								
+14-10-2023	Ishita	Nagpur	Maharashtra	West	Furniture	Bed	20	1108.83	22176.6								
+17-03-2023	Aarav	Bengaluru	Karnataka	South	Furniture	Chair	8	3628.65	29029.2								
+23-12-2023	Meera	Ahmedabad	Gujarat	West	Clothing	Pants	19	1317.72	25036.68								
+14-01-2023	Ishita	Karol Bagh	Delhi	North	Clothing	Jacket	16	2995.01	47920.16								
+25-05-2023	Aarav	Pune	Maharashtra	West	Furniture	Chair	11	2318.96	25508.56								
+30-11-2023	Nishant	Mysuru	Karnataka	South	Groceries	Sugar	14	4935.3	69094.2								
+20-09-2023	Ananya	Hubli	Karnataka	South	Furniture	Bed	1	1083.26	1083.26								
+05-10-2023	Aryan	Madurai	Tamil Nadu	South	Furniture	Bed	11	1673.53	18408.83								
+16-09-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Smartphone	10	3829.38	38293.8								
+21-09-2023	Aryan	Bengaluru	Karnataka	South	Clothing	Dress	6	470.36	2822.16								
+13-04-2023	Kabir	Pune	Maharashtra	West	Electronics	Smartphone	12	2489.14	29869.68								
+19-08-2023	Aryan	Bengaluru	Karnataka	South	Clothing	Jacket	14	1729.16	24208.24								
+16-12-2023	Meera	Chennai	Tamil Nadu	South	Stationery	Pen	2	2789.92	5579.84								
+26-05-2023	Riya	Mysuru	Karnataka	South	Clothing	Dress	17	3244.79	55161.43								
+14-02-2023	Nishant	Hubli	Karnataka	South	Stationery	Ruler	20	2155.17	43103.4								
+08-07-2023	Ananya	Coimbatore	Tamil Nadu	South	Groceries	Sugar	13	2526.2	32840.6								
+24-01-2023	Riya	Madurai	Tamil Nadu	South	Electronics	Laptop	11	1995.21	21947.31								
+11-02-2023	Ananya	Ahmedabad	Gujarat	West	Stationery	Ruler	4	1139.74	4558.96								
+30-07-2023	Kabir	Karol Bagh	Delhi	North	Furniture	Sofa	4	3015.93	12063.72								
+10-04-2023	Ananya	Chennai	Tamil Nadu	South	Clothing	Pants	4	3831.39	15325.56								
+31-05-2023	Meera	Mumbai	Maharashtra	West	Clothing	Dress	7	105.05	735.35								
+03-07-2023	Vihaan	Ahmedabad	Gujarat	West	Stationery	Pen	11	2416.18	26577.98								
+15-01-2023	Aarav	Ahmedabad	Gujarat	West	Stationery	Pen	1	549.14	549.14								
+30-05-2023	Aarav	Madurai	Tamil Nadu	South	Groceries	Lentils	10	3771.5	37715								
+14-10-2023	Vihaan	Ahmedabad	Gujarat	West	Furniture	Sofa	13	956.49	12434.37								
+30-01-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Bed	19	3575.92	67942.48								
+18-06-2023	Ananya	Surat	Gujarat	West	Electronics	Smartphone	8	3971.12	31768.96								
+22-08-2023	Ishita	Madurai	Tamil Nadu	South	Clothing	Shirt	14	3631.62	50842.68								
+01-05-2023	Aryan	Nagpur	Maharashtra	West	Furniture	Bed	18	2589.64	46613.52								
+04-09-2023	Ishita	Surat	Gujarat	West	Groceries	Sugar	2	2713.34	5426.68								
+29-11-2023	Aarav	Bengaluru	Karnataka	South	Stationery	Ruler	17	1294.56	22007.52								
+30-10-2023	Ishita	New Delhi	Delhi	North	Stationery	Ruler	8	1171.53	9372.24								
+17-01-2023	Aryan	Dwarka	Delhi	North	Clothing	Jacket	15	4060.63	60909.45								
+12-04-2023	Aarav	Nagpur	Maharashtra	West	Groceries	Lentils	4	442.23	1768.92								
+30-11-2023	Aryan	Nagpur	Maharashtra	West	Stationery	Eraser	5	3725.36	18626.8								
+14-01-2023	Aryan	Ahmedabad	Gujarat	West	Clothing	Dress	20	2974.89	59497.8								
+03-07-2023	Aryan	Madurai	Tamil Nadu	South	Clothing	Jacket	1	1717.6	1717.6								
+06-03-2023	Riya	New Delhi	Delhi	North	Furniture	Chair	5	2849.56	14247.8								
+21-09-2023	Meera	Surat	Gujarat	West	Stationery	Ruler	18	4150.77	74713.86								
+27-07-2023	Riya	Pune	Maharashtra	West	Stationery	Notebook	18	2490.14	44822.52								
+19-01-2023	Riya	Karol Bagh	Delhi	North	Stationery	Ruler	17	500.54	8509.18								
+14-06-2023	Kabir	Dwarka	Delhi	North	Electronics	Smartphone	19	1067.94	20290.86								
+14-11-2023	Kabir	Hubli	Karnataka	South	Groceries	Sugar	7	2264.87	15854.09								
+12-02-2023	Vihaan	Karol Bagh	Delhi	North	Groceries	Rice	18	2584.07	46513.26								
+14-06-2023	Kabir	Bengaluru	Karnataka	South	Stationery	Pen	13	4621.13	60074.69								
+12-09-2023	Vihaan	Karol Bagh	Delhi	North	Groceries	Lentils	16	4826.2	77219.2								
+05-06-2023	Ishita	Mysuru	Karnataka	South	Electronics	Laptop	5	4773.56	23867.8								
+29-05-2023	Kabir	Madurai	Tamil Nadu	South	Groceries	Sugar	9	3220.44	28983.96								
+27-01-2023	Kabir	Chennai	Tamil Nadu	South	Groceries	Rice	15	4945.79	74186.85								
+08-02-2023	Aditi	Coimbatore	Tamil Nadu	South	Clothing	Jacket	14	2355.56	32977.84								
+17-12-2023	Vihaan	Ahmedabad	Gujarat	West	Clothing	Pants	4	4412.41	17649.64								
+26-03-2023	Aryan	Dwarka	Delhi	North	Stationery	Pen	5	355.6	1778								
+30-08-2023	Aditi	Nagpur	Maharashtra	West	Electronics	Headphones	12	4405.19	52862.28								
+16-07-2023	Vihaan	New Delhi	Delhi	North	Groceries	Rice	9	877.89	7901.01								
+26-09-2023	Vihaan	Vadodara	Gujarat	West	Clothing	Pants	1	2970.66	2970.66								
+14-01-2023	Riya	Nagpur	Maharashtra	West	Furniture	Sofa	15	3579.98	53699.7								
+05-10-2023	Kabir	Vadodara	Gujarat	West	Electronics	Laptop	9	1605.02	14445.18								
+31-10-2023	Meera	Chennai	Tamil Nadu	South	Electronics	Headphones	12	1982.64	23791.68								
+18-04-2023	Ananya	Vadodara	Gujarat	West	Stationery	Notebook	20	3195.53	63910.6								
+09-07-2023	Kabir	Ahmedabad	Gujarat	West	Groceries	Sugar	20	1580.59	31611.8								
+25-10-2023	Aditi	Hubli	Karnataka	South	Electronics	Smartphone	6	809.57	4857.42								
+21-02-2023	Riya	Pune	Maharashtra	West	Stationery	Eraser	6	1221.52	7329.12								
+05-08-2023	Nishant	Mysuru	Karnataka	South	Furniture	Table	4	2457.5	9830								
+07-08-2023	Nishant	Hubli	Karnataka	South	Stationery	Notebook	12	2820.88	33850.56								
+08-05-2023	Ananya	Mumbai	Maharashtra	West	Stationery	Ruler	10	1512.64	15126.4								
+18-04-2023	Aarav	Dwarka	Delhi	North	Groceries	Lentils	5	3199.14	15995.7								
+21-11-2023	Meera	Ahmedabad	Gujarat	West	Electronics	Tablet	11	4315	47465								
+05-11-2023	Vihaan	Nagpur	Maharashtra	West	Groceries	Sugar	9	2118.17	19063.53								
+04-01-2023	Kabir	Dwarka	Delhi	North	Stationery	Eraser	18	1042.99	18773.82								
+17-11-2023	Vihaan	Karol Bagh	Delhi	North	Electronics	Tablet	6	4707.38	28244.28								
+16-11-2023	Ishita	Nagpur	Maharashtra	West	Groceries	Sugar	8	360.87	2886.96								
+08-02-2023	Aditi	Chennai	Tamil Nadu	South	Stationery	Pen	12	2519.65	30235.8								
+09-07-2023	Nishant	Dwarka	Delhi	North	Stationery	Eraser	7	2861.67	20031.69								
+27-06-2023	Nishant	New Delhi	Delhi	North	Groceries	Rice	11	4896.83	53865.13								
+14-06-2023	Vihaan	Ahmedabad	Gujarat	West	Electronics	Laptop	15	4180.61	62709.15								
+11-12-2023	Aarav	Karol Bagh	Delhi	North	Groceries	Lentils	2	3747.71	7495.42								
+15-08-2023	Ananya	Karol Bagh	Delhi	North	Stationery	Pen	3	2792.38	8377.14								
+04-12-2023	Ishita	Mumbai	Maharashtra	West	Electronics	Laptop	17	683.31	11616.27								
+03-01-2023	Aarav	New Delhi	Delhi	North	Clothing	Shirt	20	3463.6	69272								
+14-09-2023	Aditi	Mysuru	Karnataka	South	Stationery	Notebook	9	1609.98	14489.82								
+06-07-2023	Vihaan	Mumbai	Maharashtra	West	Stationery	Pen	4	2836.34	11345.36								
+30-01-2023	Aryan	Ahmedabad	Gujarat	West	Electronics	Smartphone	18	3238.98	58301.64								
+14-08-2023	Aditi	Mysuru	Karnataka	South	Furniture	Sofa	20	2791.25	55825								
+16-12-2023	Vihaan	Surat	Gujarat	West	Clothing	Dress	1	3165.04	3165.04								
+07-10-2023	Vihaan	Nagpur	Maharashtra	West	Stationery	Ruler	14	3414.59	47804.26								
+11-10-2023	Riya	Pune	Maharashtra	West	Electronics	Smartphone	4	3896.69	15586.76								
+27-08-2023	Aditi	Madurai	Tamil Nadu	South	Clothing	Jacket	5	2024.36	10121.8								
+10-08-2023	Ishita	Dwarka	Delhi	North	Clothing	Dress	17	102.62	1744.54								
+28-02-2023	Aditi	Surat	Gujarat	West	Stationery	Ruler	7	146.52	1025.64								
+13-12-2023	Ishita	Dwarka	Delhi	North	Furniture	Sofa	2	4248	8496								
+01-03-2023	Kabir	Nagpur	Maharashtra	West	Clothing	Dress	8	3075.58	24604.64								
+28-02-2023	Aarav	New Delhi	Delhi	North	Groceries	Lentils	13	1246.14	16199.82								
+02-09-2023	Ananya	Coimbatore	Tamil Nadu	South	Electronics	Headphones	16	3942.95	63087.2								
+11-03-2023	Kabir	New Delhi	Delhi	North	Stationery	Notebook	1	936.56	936.56								
+13-11-2023	Riya	Dwarka	Delhi	North	Clothing	Dress	7	1628.68	11400.76								
+31-07-2023	Aryan	Surat	Gujarat	West	Stationery	Eraser	10	3400.28	34002.8								
+06-04-2023	Ishita	Hubli	Karnataka	South	Stationery	Pen	18	2722.99	49013.82								
+06-05-2023	Nishant	Bengaluru	Karnataka	South	Groceries	Sugar	8	4612.53	36900.24								
+19-05-2023	Ishita	Nagpur	Maharashtra	West	Groceries	Lentils	13	2040.1	26521.3								
+21-04-2023	Aarav	Hubli	Karnataka	South	Electronics	Tablet	17	1122.98	19090.66								
+04-11-2023	Aditi	Nagpur	Maharashtra	West	Groceries	Lentils	16	2458.6	39337.6								
+28-09-2023	Kabir	Nagpur	Maharashtra	West	Furniture	Bed	9	3195.18	28756.62								
+04-10-2023	Aditi	Coimbatore	Tamil Nadu	South	Furniture	Sofa	3	384.96	1154.88								
+23-02-2023	Riya	Nagpur	Maharashtra	West	Groceries	Rice	4	3714.59	14858.36								
+19-06-2023	Kabir	Bengaluru	Karnataka	South	Groceries	Oil	9	1765.86	15892.74								
+07-07-2023	Meera	Ahmedabad	Gujarat	West	Groceries	Rice	8	3069.86	24558.88								
+19-08-2023	Aryan	Karol Bagh	Delhi	North	Furniture	Table	9	1720.47	15484.23								
+18-07-2023	Ishita	Mysuru	Karnataka	South	Clothing	Pants	7	3416.74	23917.18								
+17-09-2023	Aryan	Mysuru	Karnataka	South	Furniture	Table	7	4741.12	33187.84								
+10-06-2023	Ananya	Karol Bagh	Delhi	North	Clothing	Shirt	20	2721.24	54424.8								
+24-07-2023	Riya	Ahmedabad	Gujarat	West	Electronics	Laptop	4	3751.49	15005.96								
+21-04-2023	Kabir	Hubli	Karnataka	South	Clothing	Jacket	19	4513.6	85758.4								
+11-01-2023	Ananya	Coimbatore	Tamil Nadu	South	Furniture	Chair	11	3514.12	38655.32								
+13-12-2023	Aryan	Mysuru	Karnataka	South	Furniture	Bed	13	2109.15	27418.95								
+28-02-2023	Vihaan	Coimbatore	Tamil Nadu	South	Clothing	Pants	16	4090.26	65444.16								
+25-07-2023	Nishant	Vadodara	Gujarat	West	Clothing	Shirt	12	219.32	2631.84								
+17-12-2023	Meera	Karol Bagh	Delhi	North	Stationery	Pen	14	264.77	3706.78								
+01-05-2023	Ananya	Madurai	Tamil Nadu	South	Clothing	Shirt	9	2624.88	23623.92								
+04-06-2023	Aarav	Surat	Gujarat	West	Furniture	Sofa	15	1063.88	15958.2								
+23-02-2023	Ananya	Chennai	Tamil Nadu	South	Clothing	Shirt	2	4277.9	8555.8								
+19-11-2023	Meera	Ahmedabad	Gujarat	West	Clothing	Jacket	13	1762.69	22914.97								
+27-04-2023	Ishita	Mysuru	Karnataka	South	Clothing	Jacket	6	2069.96	12419.76								
+15-08-2023	Vihaan	New Delhi	Delhi	North	Clothing	Shirt	19	3822.54	72628.26								
+06-10-2023	Vihaan	New Delhi	Delhi	North	Groceries	Sugar	16	242.23	3875.68								
+29-06-2023	Aarav	Surat	Gujarat	West	Stationery	Eraser	12	2290.76	27489.12								
+26-09-2023	Kabir	Mumbai	Maharashtra	West	Clothing	Shirt	18	1957.78	35240.04								
+06-11-2023	Aryan	Mumbai	Maharashtra	West	Stationery	Notebook	1	4370.57	4370.57								
+19-05-2023	Ishita	New Delhi	Delhi	North	Groceries	Rice	3	1894.71	5684.13								
+12-11-2023	Nishant	Surat	Gujarat	West	Groceries	Oil	14	367.1	5139.4								
+24-07-2023	Aditi	Vadodara	Gujarat	West	Electronics	Headphones	10	4678.49	46784.9								
+10-02-2023	Vihaan	Karol Bagh	Delhi	North	Groceries	Sugar	12	1020.42	12245.04								
+19-05-2023	Ishita	Bengaluru	Karnataka	South	Electronics	Laptop	15	1669.04	25035.6								
+17-09-2023	Ananya	Pune	Maharashtra	West	Stationery	Notebook	18	138.01	2484.18								
+31-07-2023	Ananya	Ahmedabad	Gujarat	West	Stationery	Ruler	6	3847.76	23086.56								
+09-08-2023	Aryan	Mumbai	Maharashtra	West	Groceries	Lentils	4	3246.52	12986.08								
+30-01-2023	Kabir	New Delhi	Delhi	North	Stationery	Pen	14	569.91	7978.74								
+12-01-2023	Riya	Chennai	Tamil Nadu	South	Electronics	Laptop	15	4316.17	64742.55								
+20-10-2023	Vihaan	Chennai	Tamil Nadu	South	Clothing	Dress	17	2209.62	37563.54								
+07-10-2023	Riya	Dwarka	Delhi	North	Furniture	Sofa	16	3296.61	52745.76								
+01-06-2023	Meera	New Delhi	Delhi	North	Furniture	Table	13	523.83	6809.79								
+13-09-2023	Ishita	Bengaluru	Karnataka	South	Electronics	Laptop	3	916.53	2749.59								
+12-06-2023	Meera	Pune	Maharashtra	West	Clothing	Shirt	13	1836.55	23875.15								
+17-04-2023	Aditi	Karol Bagh	Delhi	North	Clothing	Dress	19	2253.92	42824.48								
+20-05-2023	Aditi	Pune	Maharashtra	West	Furniture	Table	13	3617.07	47021.91								
+31-01-2023	Aryan	Mysuru	Karnataka	South	Groceries	Oil	5	417.76	2088.8								
+08-06-2023	Vihaan	Nagpur	Maharashtra	West	Electronics	Headphones	11	864.29	9507.19								
+19-03-2023	Ishita	Dwarka	Delhi	North	Electronics	Headphones	19	2006.79	38129.01								
+14-05-2023	Vihaan	Ahmedabad	Gujarat	West	Groceries	Sugar	1	403.2	403.2								
+17-11-2023	Ananya	Pune	Maharashtra	West	Furniture	Chair	7	2846.83	19927.81								
+14-02-2023	Meera	Chennai	Tamil Nadu	South	Clothing	Dress	5	850.9	4254.5								
+24-10-2023	Aarav	Dwarka	Delhi	North	Electronics	Smartphone	16	3337.15	53394.4								
+19-09-2023	Aarav	Bengaluru	Karnataka	South	Clothing	Pants	15	1299.55	19493.25								
+27-04-2023	Aarav	Bengaluru	Karnataka	South	Groceries	Sugar	7	4898.57	34289.99								
+07-02-2023	Meera	Coimbatore	Tamil Nadu	South	Clothing	Jacket	11	2471.65	27188.15								
+16-01-2023	Aarav	Madurai	Tamil Nadu	South	Stationery	Eraser	2	1125.53	2251.06								
+02-09-2023	Nishant	Ahmedabad	Gujarat	West	Furniture	Table	13	2835.8	36865.4								
+11-04-2023	Riya	Bengaluru	Karnataka	South	Groceries	Sugar	17	3973.87	67555.79								
+12-01-2023	Nishant	Pune	Maharashtra	West	Electronics	Tablet	4	1998.26	7993.04								
+08-10-2023	Ishita	Mysuru	Karnataka	South	Stationery	Eraser	7	3820.3	26742.1								
+22-02-2023	Meera	Surat	Gujarat	West	Stationery	Notebook	19	2199.32	41787.08								
+14-06-2023	Aditi	Coimbatore	Tamil Nadu	South	Groceries	Lentils	6	578.64	3471.84								
+07-11-2023	Ishita	Chennai	Tamil Nadu	South	Electronics	Laptop	5	1488.21	7441.05								
+22-12-2023	Aryan	Coimbatore	Tamil Nadu	South	Furniture	Chair	19	3196.27	60729.13								
+10-06-2023	Nishant	Vadodara	Gujarat	West	Groceries	Lentils	5	1018.53	5092.65								
+28-06-2023	Riya	Dwarka	Delhi	North	Stationery	Pen	13	1367.15	17772.95								
+07-10-2023	Nishant	Chennai	Tamil Nadu	South	Electronics	Tablet	19	4996.28	94929.32								
+31-10-2023	Kabir	Mumbai	Maharashtra	West	Clothing	Shirt	3	4447.9	13343.7								
+21-05-2023	Riya	Pune	Maharashtra	West	Stationery	Ruler	10	1318.51	13185.1								
+19-02-2023	Meera	Coimbatore	Tamil Nadu	South	Groceries	Oil	20	1731.99	34639.8								
+01-12-2023	Riya	Nagpur	Maharashtra	West	Clothing	Dress	12	4514.39	54172.68								
+06-10-2023	Kabir	Bengaluru	Karnataka	South	Furniture	Sofa	20	1710.93	34218.6								
+10-05-2023	Vihaan	Hubli	Karnataka	South	Stationery	Eraser	19	491.53	9339.07								
+12-08-2023	Kabir	Bengaluru	Karnataka	South	Groceries	Lentils	6	203.88	1223.28								
+26-03-2023	Vihaan	Mumbai	Maharashtra	West	Stationery	Ruler	19	4786.89	90950.91								
+10-11-2023	Kabir	Mysuru	Karnataka	South	Clothing	Shirt	11	2666.77	29334.47								
+10-02-2023	Aditi	Nagpur	Maharashtra	West	Electronics	Headphones	19	2174.76	41320.44								
+25-08-2023	Aditi	Vadodara	Gujarat	West	Stationery	Notebook	1	1678.18	1678.18								
+26-04-2023	Aarav	Nagpur	Maharashtra	West	Electronics	Smartphone	20	2163.95	43279								
+05-12-2023	Aditi	Nagpur	Maharashtra	West	Furniture	Table	18	3511.28	63203.04								
+05-01-2023	Vihaan	Mysuru	Karnataka	South	Stationery	Pen	13	2979.65	38735.45								
+18-03-2023	Ananya	Nagpur	Maharashtra	West	Clothing	Pants	4	2985.48	11941.92								
+20-04-2023	Ishita	Mysuru	Karnataka	South	Stationery	Eraser	18	3989.44	71809.92								
+26-09-2023	Ishita	Ahmedabad	Gujarat	West	Electronics	Tablet	14	2251.87	31526.18								
+09-04-2023	Kabir	Surat	Gujarat	West	Groceries	Oil	8	2519.3	20154.4								
+16-07-2023	Nishant	Mysuru	Karnataka	South	Clothing	Dress	3	1129.88	3389.64								
+06-10-2023	Meera	Ahmedabad	Gujarat	West	Furniture	Sofa	15	4146.03	62190.45								
+07-06-2023	Ananya	Nagpur	Maharashtra	West	Furniture	Bed	4	3564.22	14256.88								
+16-11-2023	Ananya	Coimbatore	Tamil Nadu	South	Furniture	Sofa	14	414.51	5803.14								
+25-01-2023	Kabir	Ahmedabad	Gujarat	West	Furniture	Bed	11	1788.39	19672.29								
+28-11-2023	Aarav	Hubli	Karnataka	South	Clothing	Jacket	6	2867.98	17207.88								
+16-07-2023	Aditi	Nagpur	Maharashtra	West	Clothing	Dress	6	3566.53	21399.18								
+04-09-2023	Aryan	Surat	Gujarat	West	Stationery	Eraser	13	2669.5	34703.5								
+06-08-2023	Riya	Chennai	Tamil Nadu	South	Groceries	Oil	6	3842.46	23054.76								
+29-05-2023	Ishita	Pune	Maharashtra	West	Furniture	Table	13	1419.3	18450.9								
+02-04-2023	Aditi	Dwarka	Delhi	North	Electronics	Headphones	1	3187.31	3187.31								
+02-11-2023	Meera	Bengaluru	Karnataka	South	Groceries	Oil	12	1837.2	22046.4								
+25-12-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Tablet	2	4081.92	8163.84								
+28-08-2023	Vihaan	Ahmedabad	Gujarat	West	Groceries	Lentils	20	3184.86	63697.2								
+31-01-2023	Ishita	Coimbatore	Tamil Nadu	South	Furniture	Sofa	8	3402.24	27217.92								
+02-09-2023	Ishita	Mumbai	Maharashtra	West	Furniture	Sofa	10	2750.69	27506.9								
+11-03-2023	Kabir	Pune	Maharashtra	West	Electronics	Headphones	13	4090.9	53181.7								
+11-07-2023	Ananya	Bengaluru	Karnataka	South	Groceries	Sugar	3	4234	12702								
+06-06-2023	Kabir	Madurai	Tamil Nadu	South	Electronics	Smartphone	12	1701.3	20415.6								
+05-07-2023	Aryan	Chennai	Tamil Nadu	South	Electronics	Tablet	18	1599.01	28782.18								
+30-05-2023	Aryan	Hubli	Karnataka	South	Electronics	Headphones	11	4564.73	50212.03								
+03-07-2023	Meera	Ahmedabad	Gujarat	West	Furniture	Bed	14	3507.75	49108.5								
+26-03-2023	Riya	New Delhi	Delhi	North	Stationery	Eraser	4	810.38	3241.52								
+20-06-2023	Meera	Pune	Maharashtra	West	Electronics	Smartphone	7	698.8	4891.6								
+10-09-2023	Ananya	Coimbatore	Tamil Nadu	South	Electronics	Tablet	14	2833.44	39668.16								
+15-03-2023	Aditi	Bengaluru	Karnataka	South	Groceries	Sugar	20	2409.68	48193.6								
+06-09-2023	Ananya	Chennai	Tamil Nadu	South	Groceries	Oil	17	2448.51	41624.67								
+10-08-2023	Kabir	Chennai	Tamil Nadu	South	Clothing	Pants	7	4029.58	28207.06								
+14-09-2023	Aditi	Madurai	Tamil Nadu	South	Groceries	Rice	15	3999.29	59989.35								
+30-08-2023	Aarav	Mysuru	Karnataka	South	Stationery	Pen	17	583.88	9925.96								
+02-08-2023	Kabir	Surat	Gujarat	West	Clothing	Shirt	7	1319.32	9235.24								
+22-05-2023	Ishita	Nagpur	Maharashtra	West	Furniture	Chair	15	2698.6	40479								
+30-06-2023	Nishant	Bengaluru	Karnataka	South	Stationery	Pen	19	4364.64	82928.16								
+17-04-2023	Aryan	Madurai	Tamil Nadu	South	Furniture	Bed	8	4740.97	37927.76								
+14-05-2023	Ishita	Mysuru	Karnataka	South	Stationery	Pen	4	917.97	3671.88								
+09-05-2023	Ishita	Surat	Gujarat	West	Clothing	Pants	10	224.53	2245.3								
+16-02-2023	Vihaan	New Delhi	Delhi	North	Stationery	Pen	1	3246.08	3246.08								
+18-11-2023	Nishant	Nagpur	Maharashtra	West	Furniture	Chair	16	1411.33	22581.28								
+05-05-2023	Meera	Chennai	Tamil Nadu	South	Clothing	Jacket	19	2174.06	41307.14								
+10-04-2023	Meera	Madurai	Tamil Nadu	South	Groceries	Rice	2	1194.4	2388.8								
+19-09-2023	Ananya	Surat	Gujarat	West	Clothing	Pants	2	3726.58	7453.16								
+08-06-2023	Aarav	Chennai	Tamil Nadu	South	Furniture	Sofa	5	1599.65	7998.25								
+28-11-2023	Aryan	Karol Bagh	Delhi	North	Furniture	Table	16	1628.19	26051.04								
+24-05-2023	Aryan	Bengaluru	Karnataka	South	Clothing	Shirt	17	3381.75	57489.75								
+30-10-2023	Vihaan	Mysuru	Karnataka	South	Stationery	Ruler	18	3627.09	65287.62								
+31-05-2023	Meera	Surat	Gujarat	West	Groceries	Lentils	2	3106.64	6213.28								
+10-03-2023	Meera	Pune	Maharashtra	West	Electronics	Laptop	15	4310.01	64650.15								
+03-03-2023	Riya	Vadodara	Gujarat	West	Furniture	Table	14	3352.19	46930.66								
+15-05-2023	Aditi	Karol Bagh	Delhi	North	Electronics	Smartphone	18	214.47	3860.46								
+15-03-2023	Meera	Hubli	Karnataka	South	Groceries	Lentils	3	1810.87	5432.61								
+30-01-2023	Ananya	Dwarka	Delhi	North	Furniture	Sofa	3	1105.46	3316.38								
+28-08-2023	Kabir	Mumbai	Maharashtra	West	Groceries	Rice	10	3707.43	37074.3								
+10-10-2023	Aryan	Madurai	Tamil Nadu	South	Electronics	Smartphone	18	584.4	10519.2								
+28-02-2023	Vihaan	Hubli	Karnataka	South	Furniture	Sofa	1	2498.74	2498.74								
+07-03-2023	Ishita	Bengaluru	Karnataka	South	Electronics	Smartphone	17	2460.73	41832.41								
+12-01-2023	Ananya	Nagpur	Maharashtra	West	Furniture	Table	13	4630.98	60202.74								
+11-11-2023	Aditi	Bengaluru	Karnataka	South	Electronics	Tablet	3	4324.88	12974.64								
+12-10-2023	Meera	Dwarka	Delhi	North	Electronics	Tablet	20	4049.4	80988								
+08-10-2023	Vihaan	Vadodara	Gujarat	West	Groceries	Oil	16	2347.21	37555.36								
+24-11-2023	Vihaan	Pune	Maharashtra	West	Clothing	Jacket	2	3743.52	7487.04								
+22-10-2023	Nishant	Mysuru	Karnataka	South	Groceries	Sugar	8	303.48	2427.84								
+14-09-2023	Aryan	Coimbatore	Tamil Nadu	South	Furniture	Bed	7	1373.41	9613.87								
+21-03-2023	Aryan	Karol Bagh	Delhi	North	Electronics	Smartphone	10	3048.2	30482								
+30-12-2023	Ananya	Ahmedabad	Gujarat	West	Furniture	Bed	20	2818.78	56375.6								
+04-11-2023	Vihaan	Pune	Maharashtra	West	Clothing	Jacket	1	4647.3	4647.3								
+07-02-2023	Nishant	Surat	Gujarat	West	Clothing	Dress	20	2302.47	46049.4								
+26-03-2023	Kabir	Karol Bagh	Delhi	North	Furniture	Bed	17	2805.45	47692.65								
+14-04-2023	Kabir	Coimbatore	Tamil Nadu	South	Electronics	Laptop	3	413.26	1239.78								
+19-03-2023	Ishita	Surat	Gujarat	West	Clothing	Pants	17	3203.04	54451.68								
+14-04-2023	Aarav	Ahmedabad	Gujarat	West	Clothing	Dress	4	1906.89	7627.56								
+26-06-2023	Ananya	Dwarka	Delhi	North	Groceries	Oil	14	3829.68	53615.52								
+24-04-2023	Vihaan	Chennai	Tamil Nadu	South	Stationery	Ruler	19	2636.08	50085.52								
+11-08-2023	Meera	Coimbatore	Tamil Nadu	South	Electronics	Headphones	13	3994.86	51933.18								
+25-06-2023	Ishita	Ahmedabad	Gujarat	West	Stationery	Eraser	12	1554.75	18657								
+07-01-2023	Aarav	Mysuru	Karnataka	South	Stationery	Notebook	9	4674.04	42066.36								
+04-02-2023	Aarav	Vadodara	Gujarat	West	Furniture	Table	2	1252.3	2504.6								
+30-09-2023	Aditi	Hubli	Karnataka	South	Stationery	Eraser	15	1738.86	26082.9								
+30-10-2023	Vihaan	Surat	Gujarat	West	Clothing	Pants	4	2527.15	10108.6								
+01-02-2023	Aditi	Ahmedabad	Gujarat	West	Clothing	Dress	17	4247.56	72208.52								
+19-12-2023	Ananya	Chennai	Tamil Nadu	South	Groceries	Lentils	8	978.4	7827.2								
+03-08-2023	Ananya	Vadodara	Gujarat	West	Furniture	Sofa	5	1530.16	7650.8								
+05-02-2023	Kabir	Coimbatore	Tamil Nadu	South	Furniture	Sofa	15	4748.62	71229.3								
+19-11-2023	Ananya	Bengaluru	Karnataka	South	Furniture	Table	5	4402.72	22013.6								
+10-07-2023	Meera	Mumbai	Maharashtra	West	Clothing	Dress	16	3858.12	61729.92								
+30-01-2023	Nishant	Vadodara	Gujarat	West	Groceries	Rice	10	4939.99	49399.9								
+21-07-2023	Meera	Coimbatore	Tamil Nadu	South	Furniture	Chair	8	2394.87	19158.96								
+27-11-2023	Vihaan	Vadodara	Gujarat	West	Clothing	Jacket	11	3277.74	36055.14								
+24-03-2023	Ishita	Bengaluru	Karnataka	South	Furniture	Chair	5	2411.33	12056.65								
+31-03-2023	Nishant	Ahmedabad	Gujarat	West	Stationery	Pen	17	3844.7	65359.9								
+29-07-2023	Ananya	Coimbatore	Tamil Nadu	South	Clothing	Shirt	14	816.99	11437.86								
+13-12-2023	Riya	Chennai	Tamil Nadu	South	Electronics	Tablet	3	3102.92	9308.76								
+13-02-2023	Aditi	Ahmedabad	Gujarat	West	Electronics	Laptop	11	490.34	5393.74								
+17-09-2023	Aarav	Pune	Maharashtra	West	Clothing	Shirt	6	4079.26	24475.56								
+03-03-2023	Meera	New Delhi	Delhi	North	Furniture	Chair	12	3229.61	38755.32								
+09-10-2023	Ishita	Madurai	Tamil Nadu	South	Stationery	Pen	16	1873.12	29969.92								
+11-03-2023	Aditi	Mumbai	Maharashtra	West	Groceries	Sugar	7	1640.58	11484.06								
+30-03-2023	Meera	Nagpur	Maharashtra	West	Electronics	Laptop	13	4843.21	62961.73								
+30-10-2023	Kabir	Dwarka	Delhi	North	Stationery	Ruler	13	1782.01	23166.13								
+29-07-2023	Kabir	Mysuru	Karnataka	South	Groceries	Sugar	19	1120.6	21291.4								
+24-02-2023	Riya	Bengaluru	Karnataka	South	Furniture	Bed	2	1927.02	3854.04								
+20-02-2023	Aditi	Mumbai	Maharashtra	West	Furniture	Sofa	15	4642.69	69640.35								
+31-08-2023	Aditi	Mumbai	Maharashtra	West	Stationery	Ruler	19	3316.87	63020.53								
+04-08-2023	Vihaan	Surat	Gujarat	West	Stationery	Notebook	19	1372.28	26073.32								
+06-01-2023	Aditi	Bengaluru	Karnataka	South	Stationery	Notebook	8	4786.48	38291.84								
+30-01-2023	Nishant	Chennai	Tamil Nadu	South	Furniture	Sofa	18	620.93	11176.74								
+15-10-2023	Kabir	Chennai	Tamil Nadu	South	Electronics	Tablet	4	1241.21	4964.84								
+13-07-2023	Meera	Pune	Maharashtra	West	Electronics	Tablet	10	1823.34	18233.4								
+08-08-2023	Ananya	Pune	Maharashtra	West	Clothing	Pants	10	4304.71	43047.1								
+24-09-2023	Kabir	Coimbatore	Tamil Nadu	South	Groceries	Sugar	11	4446.37	48910.07								
+28-10-2023	Nishant	Mumbai	Maharashtra	West	Groceries	Lentils	8	465.32	3722.56								
+22-10-2023	Aarav	Madurai	Tamil Nadu	South	Stationery	Pen	1	3431.7	3431.7								
+29-09-2023	Aditi	Mumbai	Maharashtra	West	Furniture	Sofa	20	1365.33	27306.6								
+16-12-2023	Nishant	Coimbatore	Tamil Nadu	South	Electronics	Headphones	14	2343.4	32807.6								
+06-01-2023	Aryan	Ahmedabad	Gujarat	West	Electronics	Laptop	15	447.71	6715.65								
+05-01-2023	Aryan	Vadodara	Gujarat	West	Groceries	Oil	3	2393.72	7181.16								
+27-11-2023	Kabir	Dwarka	Delhi	North	Clothing	Pants	20	138.6	2772								
+31-12-2023	Riya	Mumbai	Maharashtra	West	Groceries	Lentils	6	3119.62	18717.72								
+20-09-2023	Ishita	Chennai	Tamil Nadu	South	Electronics	Tablet	1	4175.7	4175.7								
+23-12-2023	Ananya	Karol Bagh	Delhi	North	Stationery	Pen	17	2655.23	45138.91								
+02-10-2023	Aryan	New Delhi	Delhi	North	Groceries	Oil	14	4235.22	59293.08								
+25-05-2023	Meera	Dwarka	Delhi	North	Stationery	Pen	20	3393.01	67860.2								
+02-04-2023	Aryan	Mysuru	Karnataka	South	Electronics	Headphones	14	1247.48	17464.72								
+05-08-2023	Ananya	Ahmedabad	Gujarat	West	Clothing	Dress	20	4428.59	88571.8								
+05-12-2023	Ishita	Chennai	Tamil Nadu	South	Stationery	Ruler	9	2251.19	20260.71								
+16-03-2023	Nishant	Coimbatore	Tamil Nadu	South	Electronics	Smartphone	19	2240.89	42576.91								
+07-10-2023	Aarav	Dwarka	Delhi	North	Furniture	Sofa	19	4089.21	77694.99								
+25-11-2023	Aryan	Coimbatore	Tamil Nadu	South	Groceries	Rice	6	4286.28	25717.68								
+30-05-2023	Aditi	Madurai	Tamil Nadu	South	Electronics	Laptop	20	1316.67	26333.4								
+15-01-2023	Aryan	Surat	Gujarat	West	Clothing	Jacket	17	3145.73	53477.41								
+18-09-2023	Aryan	Pune	Maharashtra	West	Clothing	Pants	10	2523.59	25235.9								
+26-09-2023	Nishant	Karol Bagh	Delhi	North	Stationery	Ruler	2	2851.64	5703.28								
+27-09-2023	Aryan	Pune	Maharashtra	West	Stationery	Ruler	20	3193.18	63863.6								
+22-03-2023	Nishant	New Delhi	Delhi	North	Clothing	Pants	8	4663.82	37310.56								
+01-12-2023	Aarav	Mumbai	Maharashtra	West	Stationery	Notebook	13	4263.79	55429.27								
+16-06-2023	Kabir	Madurai	Tamil Nadu	South	Furniture	Chair	11	819.85	9018.35								
+27-02-2023	Ananya	Madurai	Tamil Nadu	South	Electronics	Tablet	8	2784.08	22272.64								
+17-03-2023	Aryan	Chennai	Tamil Nadu	South	Clothing	Shirt	8	2240.22	17921.76								
+06-12-2023	Vihaan	Chennai	Tamil Nadu	South	Electronics	Headphones	18	1039.38	18708.84								
+07-11-2023	Aditi	Surat	Gujarat	West	Groceries	Rice	18	1297.93	23362.74								
+05-01-2023	Kabir	Mumbai	Maharashtra	West	Furniture	Sofa	4	4293.74	17174.96								
+13-08-2023	Ishita	New Delhi	Delhi	North	Electronics	Headphones	11	2133.36	23466.96								
+22-10-2023	Meera	Bengaluru	Karnataka	South	Groceries	Sugar	11	735.74	8093.14								
+08-03-2023	Nishant	Dwarka	Delhi	North	Clothing	Dress	14	271.27	3797.78								
+10-11-2023	Nishant	Bengaluru	Karnataka	South	Furniture	Table	5	4759.19	23795.95								
+10-12-2023	Vihaan	Ahmedabad	Gujarat	West	Electronics	Laptop	11	941.97	10361.67								
+11-08-2023	Vihaan	Madurai	Tamil Nadu	South	Groceries	Oil	11	2182.46	24007.06								
+22-12-2023	Vihaan	Mumbai	Maharashtra	West	Groceries	Sugar	10	2112.91	21129.1								
+11-02-2023	Aditi	Surat	Gujarat	West	Clothing	Dress	13	3495.08	45436.04								
+01-06-2023	Meera	Karol Bagh	Delhi	North	Groceries	Lentils	2	3439.47	6878.94								
+11-01-2023	Nishant	Vadodara	Gujarat	West	Furniture	Table	20	3279.25	65585								
+01-02-2023	Nishant	New Delhi	Delhi	North	Furniture	Bed	16	3320.8	53132.8								
+31-12-2023	Nishant	Pune	Maharashtra	West	Clothing	Jacket	6	4105.19	24631.14								
+31-08-2023	Riya	Karol Bagh	Delhi	North	Groceries	Rice	7	1830.46	12813.22								
+28-01-2023	Vihaan	Karol Bagh	Delhi	North	Stationery	Notebook	19	3901.75	74133.25								
+29-12-2023	Vihaan	Coimbatore	Tamil Nadu	South	Groceries	Lentils	10	3031.91	30319.1								
+07-09-2023	Aarav	Nagpur	Maharashtra	West	Stationery	Ruler	18	3575.04	64350.72								
+01-09-2023	Riya	Bengaluru	Karnataka	South	Groceries	Sugar	17	2920.06	49641.02								
+14-04-2023	Aryan	Mumbai	Maharashtra	West	Electronics	Tablet	15	2796.48	41947.2								
+28-03-2023	Ishita	Chennai	Tamil Nadu	South	Electronics	Laptop	1	2918.29	2918.29								
+21-08-2023	Riya	Ahmedabad	Gujarat	West	Furniture	Bed	10	1097.83	10978.3								
+12-02-2023	Meera	Mumbai	Maharashtra	West	Clothing	Shirt	10	3391.5	33915								
+09-07-2023	Ananya	New Delhi	Delhi	North	Groceries	Sugar	13	2225.88	28936.44								
+05-12-2023	Aarav	Pune	Maharashtra	West	Clothing	Shirt	2	1559.76	3119.52								
+19-01-2023	Nishant	Vadodara	Gujarat	West	Groceries	Rice	13	4719.96	61359.48								
+20-11-2023	Kabir	Bengaluru	Karnataka	South	Stationery	Eraser	5	1593.02	7965.1								
+15-04-2023	Ishita	Chennai	Tamil Nadu	South	Clothing	Dress	7	1233.63	8635.41								
+14-05-2023	Aditi	Madurai	Tamil Nadu	South	Electronics	Smartphone	2	2261.69	4523.38								
+11-05-2023	Riya	Coimbatore	Tamil Nadu	South	Groceries	Sugar	15	1197.31	17959.65								
+09-04-2023	Vihaan	Mysuru	Karnataka	South	Stationery	Eraser	9	3441.09	30969.81								
+23-06-2023	Vihaan	New Delhi	Delhi	North	Furniture	Sofa	2	3325.99	6651.98								
+27-08-2023	Kabir	Mumbai	Maharashtra	West	Clothing	Dress	2	991.8	1983.6								
+24-04-2023	Ananya	New Delhi	Delhi	North	Groceries	Lentils	9	4763.01	42867.09								
+13-04-2023	Aryan	Vadodara	Gujarat	West	Clothing	Jacket	8	826.71	6613.68								
+23-10-2023	Meera	Bengaluru	Karnataka	South	Groceries	Oil	9	209.57	1886.13								
+15-06-2023	Ishita	Bengaluru	Karnataka	South	Electronics	Headphones	7	2538.43	17769.01								
+27-07-2023	Aditi	Surat	Gujarat	West	Groceries	Sugar	7	4116.98	28818.86								
+01-07-2023	Vihaan	Pune	Maharashtra	West	Electronics	Laptop	20	3638.01	72760.2								
+28-01-2023	Kabir	Dwarka	Delhi	North	Furniture	Sofa	8	4523.44	36187.52								
+29-09-2023	Aditi	New Delhi	Delhi	North	Furniture	Bed	17	2042	34714								
+26-02-2023	Kabir	Madurai	Tamil Nadu	South	Stationery	Ruler	19	2357.62	44794.78								
+06-02-2023	Nishant	Mysuru	Karnataka	South	Clothing	Dress	18	941.19	16941.42								
+04-05-2023	Ananya	Coimbatore	Tamil Nadu	South	Clothing	Shirt	9	3927.83	35350.47								
+26-11-2023	Vihaan	Bengaluru	Karnataka	South	Groceries	Sugar	1	4555.42	4555.42								
+30-04-2023	Ishita	Nagpur	Maharashtra	West	Clothing	Shirt	18	3271.29	58883.22								
+25-08-2023	Meera	Vadodara	Gujarat	West	Electronics	Smartphone	15	4406.31	66094.65								
+03-12-2023	Aryan	Surat	Gujarat	West	Stationery	Notebook	19	2016.56	38314.64								
+19-09-2023	Aryan	Vadodara	Gujarat	West	Furniture	Chair	13	3531.03	45903.39								
+15-11-2023	Aarav	Coimbatore	Tamil Nadu	South	Furniture	Table	7	4077.95	28545.65								
+16-04-2023	Ishita	Mysuru	Karnataka	South	Groceries	Oil	1	1628.88	1628.88								
+19-02-2023	Vihaan	Bengaluru	Karnataka	South	Clothing	Dress	15	2093.03	31395.45								
+03-07-2023	Ananya	Karol Bagh	Delhi	North	Clothing	Shirt	14	2441.07	34174.98								
+12-06-2023	Kabir	Pune	Maharashtra	West	Furniture	Sofa	18	134.67	2424.06								
+10-08-2023	Vihaan	Mysuru	Karnataka	South	Electronics	Headphones	8	2518.13	20145.04								
+05-08-2023	Nishant	Karol Bagh	Delhi	North	Stationery	Pen	1	2366.64	2366.64								
+04-12-2023	Vihaan	Mumbai	Maharashtra	West	Stationery	Ruler	14	3167.49	44344.86								
+12-05-2023	Ishita	Mumbai	Maharashtra	West	Electronics	Laptop	9	109.56	986.04								
+02-06-2023	Aarav	Karol Bagh	Delhi	North	Electronics	Tablet	20	652.87	13057.4								
+15-03-2023	Ishita	Bengaluru	Karnataka	South	Clothing	Shirt	4	2563.65	10254.6								
+18-01-2023	Aditi	Chennai	Tamil Nadu	South	Groceries	Rice	2	771.23	1542.46								
+30-07-2023	Riya	Madurai	Tamil Nadu	South	Clothing	Shirt	19	2290.68	43522.92								
+24-01-2023	Ishita	Hubli	Karnataka	South	Stationery	Eraser	9	4965.3	44687.7								
+26-09-2023	Aditi	Nagpur	Maharashtra	West	Electronics	Laptop	4	3684.5	14738								
+11-07-2023	Nishant	Ahmedabad	Gujarat	West	Groceries	Oil	14	4566.12	63925.68								
+24-11-2023	Aarav	Chennai	Tamil Nadu	South	Furniture	Chair	17	2246.82	38195.94								
+12-06-2023	Nishant	New Delhi	Delhi	North	Stationery	Ruler	3	215.21	645.63								
+29-12-2023	Kabir	Bengaluru	Karnataka	South	Electronics	Headphones	7	1294.31	9060.17								
+20-08-2023	Ishita	Vadodara	Gujarat	West	Groceries	Oil	9	1558.74	14028.66								
+24-03-2023	Aryan	Coimbatore	Tamil Nadu	South	Stationery	Notebook	11	4382.91	48212.01								
+31-07-2023	Ishita	New Delhi	Delhi	North	Electronics	Smartphone	6	4197.59	25185.54								
+04-02-2023	Meera	Chennai	Tamil Nadu	South	Stationery	Notebook	2	4137.49	8274.98								
+12-11-2023	Riya	Karol Bagh	Delhi	North	Electronics	Smartphone	16	1598.06	25568.96								
+20-11-2023	Vihaan	New Delhi	Delhi	North	Furniture	Chair	3	3044.02	9132.06								
+09-01-2023	Meera	Pune	Maharashtra	West	Clothing	Jacket	6	4270.03	25620.18								
+10-09-2023	Vihaan	Pune	Maharashtra	West	Furniture	Chair	13	298.09	3875.17								
+13-06-2023	Riya	Vadodara	Gujarat	West	Electronics	Laptop	3	1453.68	4361.04								
+22-07-2023	Ananya	Karol Bagh	Delhi	North	Stationery	Pen	4	1009.78	4039.12								
+04-10-2023	Meera	Madurai	Tamil Nadu	South	Electronics	Headphones	12	231.07	2772.84								
+06-02-2023	Meera	Nagpur	Maharashtra	West	Electronics	Laptop	12	1410.03	16920.36								
+09-02-2023	Riya	Pune	Maharashtra	West	Stationery	Eraser	6	1610.91	9665.46								
+07-02-2023	Aryan	Hubli	Karnataka	South	Stationery	Eraser	7	3396.62	23776.34								
+08-07-2023	Kabir	Hubli	Karnataka	South	Stationery	Pen	14	4164.33	58300.62								
+13-01-2023	Kabir	Nagpur	Maharashtra	West	Furniture	Bed	12	4414.27	52971.24								
+18-07-2023	Aryan	Chennai	Tamil Nadu	South	Clothing	Jacket	13	3101.42	40318.46								
+20-08-2023	Ananya	Madurai	Tamil Nadu	South	Stationery	Notebook	18	3002.55	54045.9								
+05-02-2023	Meera	Dwarka	Delhi	North	Furniture	Table	13	2098.65	27282.45								
+06-10-2023	Aryan	Surat	Gujarat	West	Electronics	Smartphone	5	4106.79	20533.95								
+31-05-2023	Aditi	Karol Bagh	Delhi	North	Clothing	Dress	1	3041.26	3041.26								
+18-11-2023	Aditi	Mumbai	Maharashtra	West	Stationery	Eraser	7	4514.21	31599.47								
+21-03-2023	Kabir	Chennai	Tamil Nadu	South	Clothing	Dress	18	2971.68	53490.24								
+23-08-2023	Riya	Mysuru	Karnataka	South	Groceries	Lentils	6	2263.36	13580.16								
+13-05-2023	Meera	Coimbatore	Tamil Nadu	South	Furniture	Sofa	8	3859.28	30874.24								
+15-05-2023	Aryan	Nagpur	Maharashtra	West	Furniture	Chair	14	3044.71	42625.94								
+28-06-2023	Aditi	Hubli	Karnataka	South	Stationery	Pen	11	4653.38	51187.18								
+07-02-2023	Riya	Mysuru	Karnataka	South	Furniture	Chair	9	3425.59	30830.31								
+27-07-2023	Meera	Mumbai	Maharashtra	West	Clothing	Dress	15	4671.69	70075.35								
+17-09-2023	Vihaan	Pune	Maharashtra	West	Stationery	Notebook	5	4600.38	23001.9								
+11-06-2023	Ananya	Chennai	Tamil Nadu	South	Groceries	Oil	19	2183.09	41478.71								
+20-12-2023	Riya	Madurai	Tamil Nadu	South	Electronics	Laptop	8	1850.8	14806.4								
+12-12-2023	Vihaan	Karol Bagh	Delhi	North	Electronics	Smartphone	12	3695.68	44348.16								
+12-07-2023	Meera	Ahmedabad	Gujarat	West	Furniture	Chair	14	3099.57	43393.98								
+23-10-2023	Aarav	Nagpur	Maharashtra	West	Clothing	Pants	1	3758.07	3758.07								
+25-08-2023	Ishita	Dwarka	Delhi	North	Furniture	Bed	5	2536.65	12683.25								
+22-08-2023	Aarav	Mumbai	Maharashtra	West	Groceries	Sugar	9	564.08	5076.72								
+27-11-2023	Meera	Bengaluru	Karnataka	South	Groceries	Rice	4	3762.47	15049.88								
+30-10-2023	Nishant	Vadodara	Gujarat	West	Groceries	Oil	5	4180.57	20902.85								
+19-01-2023	Riya	Hubli	Karnataka	South	Furniture	Bed	5	1947.01	9735.05								
+22-07-2023	Meera	Nagpur	Maharashtra	West	Clothing	Shirt	13	4686.21	60920.73								
+18-01-2023	Nishant	Nagpur	Maharashtra	West	Furniture	Table	7	4418.17	30927.19								
+09-10-2023	Riya	Pune	Maharashtra	West	Clothing	Jacket	19	4186.64	79546.16								
+06-07-2023	Vihaan	Surat	Gujarat	West	Furniture	Table	6	1003.96	6023.76								
+20-07-2023	Aryan	Madurai	Tamil Nadu	South	Electronics	Laptop	13	1028.74	13373.62								
+30-08-2023	Ishita	Coimbatore	Tamil Nadu	South	Clothing	Jacket	20	4751.14	95022.8								
+14-06-2023	Meera	Mysuru	Karnataka	South	Clothing	Shirt	8	565.82	4526.56								
+26-08-2023	Nishant	Pune	Maharashtra	West	Electronics	Smartphone	1	1903.53	1903.53								
+08-11-2023	Ishita	Vadodara	Gujarat	West	Stationery	Ruler	20	3286.69	65733.8								
+13-05-2023	Meera	New Delhi	Delhi	North	Stationery	Pen	20	1176.4	23528								
+19-12-2023	Meera	Surat	Gujarat	West	Stationery	Ruler	11	2038.9	22427.9								
+01-03-2023	Nishant	Coimbatore	Tamil Nadu	South	Stationery	Notebook	19	3990.16	75813.04								
+21-01-2023	Kabir	Dwarka	Delhi	North	Clothing	Pants	15	3765.36	56480.4								
+22-11-2023	Aditi	Chennai	Tamil Nadu	South	Clothing	Shirt	12	1794.88	21538.56								
+17-06-2023	Aarav	Bengaluru	Karnataka	South	Electronics	Smartphone	19	2750.97	52268.43								
+23-08-2023	Kabir	Nagpur	Maharashtra	West	Stationery	Ruler	17	3677.4	62515.8								
+27-03-2023	Kabir	Pune	Maharashtra	West	Stationery	Ruler	7	2253.94	15777.58								
+18-05-2023	Nishant	Bengaluru	Karnataka	South	Groceries	Sugar	8	1762.43	14099.44								
+28-04-2023	Nishant	Coimbatore	Tamil Nadu	South	Furniture	Bed	20	278.55	5571								
+21-09-2023	Meera	Nagpur	Maharashtra	West	Furniture	Bed	7	1940.86	13586.02								
+02-10-2023	Meera	Coimbatore	Tamil Nadu	South	Groceries	Rice	1	414.64	414.64								
+04-10-2023	Nishant	Hubli	Karnataka	South	Stationery	Eraser	7	1073.54	7514.78								
+08-08-2023	Aarav	Coimbatore	Tamil Nadu	South	Electronics	Tablet	2	2078.33	4156.66								
+13-01-2023	Aditi	New Delhi	Delhi	North	Furniture	Sofa	15	4188.84	62832.6								
+09-06-2023	Aryan	Coimbatore	Tamil Nadu	South	Clothing	Jacket	16	3046.66	48746.56								
+06-08-2023	Aarav	Coimbatore	Tamil Nadu	South	Clothing	Jacket	13	566.56	7365.28								
+10-08-2023	Aarav	Karol Bagh	Delhi	North	Electronics	Tablet	9	4726.68	42540.12								
+13-04-2023	Kabir	Hubli	Karnataka	South	Clothing	Jacket	15	2503.47	37552.05								
+11-07-2023	Nishant	Hubli	Karnataka	South	Groceries	Rice	13	2244.77	29182.01								
+11-12-2023	Riya	Pune	Maharashtra	West	Stationery	Ruler	18	3559.2	64065.6								
+20-12-2023	Aditi	Mysuru	Karnataka	South	Clothing	Jacket	16	4238.64	67818.24								
+14-11-2023	Ishita	Mumbai	Maharashtra	West	Clothing	Jacket	13	151.65	1971.45								
+09-06-2023	Meera	Mumbai	Maharashtra	West	Furniture	Chair	11	4242.9	46671.9								
+23-09-2023	Vihaan	Surat	Gujarat	West	Groceries	Lentils	9	4639.93	41759.37								
+25-07-2023	Riya	Madurai	Tamil Nadu	South	Clothing	Pants	4	4336.92	17347.68								
+20-04-2023	Meera	Dwarka	Delhi	North	Furniture	Table	17	1005.44	17092.48								
+11-03-2023	Vihaan	Mysuru	Karnataka	South	Furniture	Sofa	18	2231.56	40168.08								
+11-07-2023	Meera	Pune	Maharashtra	West	Furniture	Bed	14	3677.67	51487.38								
+18-03-2023	Nishant	Madurai	Tamil Nadu	South	Electronics	Tablet	6	1047.72	6286.32								
+15-03-2023	Vihaan	Madurai	Tamil Nadu	South	Stationery	Notebook	20	827.08	16541.6								
+30-12-2023	Vihaan	Hubli	Karnataka	South	Stationery	Eraser	19	1726.65	32806.35								
+08-05-2023	Ishita	Bengaluru	Karnataka	South	Stationery	Pen	17	2339.57	39772.69								
+02-05-2023	Ishita	Madurai	Tamil Nadu	South	Clothing	Pants	8	4984.96	39879.68								
+04-05-2023	Kabir	Karol Bagh	Delhi	North	Electronics	Smartphone	17	3259.21	55406.57								
+30-08-2023	Vihaan	Coimbatore	Tamil Nadu	South	Furniture	Table	7	4847.62	33933.34								
+23-07-2023	Nishant	Chennai	Tamil Nadu	South	Groceries	Rice	6	2260.16	13560.96								
+12-09-2023	Aarav	New Delhi	Delhi	North	Furniture	Bed	16	1795.37	28725.92								
+03-05-2023	Aarav	Vadodara	Gujarat	West	Electronics	Tablet	19	2040.79	38775.01								
+28-07-2023	Ananya	Hubli	Karnataka	South	Furniture	Chair	13	1764.64	22940.32								
+21-08-2023	Meera	Coimbatore	Tamil Nadu	South	Groceries	Rice	6	746.23	4477.38								
+10-11-2023	Nishant	New Delhi	Delhi	North	Furniture	Sofa	14	2385.99	33403.86								
+12-04-2023	Meera	Vadodara	Gujarat	West	Electronics	Headphones	1	2362.15	2362.15								
+26-12-2023	Aarav	New Delhi	Delhi	North	Clothing	Pants	16	1236.8	19788.8								
+08-02-2023	Aditi	New Delhi	Delhi	North	Electronics	Laptop	17	1248.03	21216.51								
+03-06-2023	Ananya	Karol Bagh	Delhi	North	Stationery	Eraser	16	665.83	10653.28								
+06-05-2023	Meera	Pune	Maharashtra	West	Electronics	Smartphone	16	615.7	9851.2								
+26-06-2023	Riya	Hubli	Karnataka	South	Stationery	Notebook	13	3616.99	47020.87								
+08-06-2023	Kabir	Madurai	Tamil Nadu	South	Clothing	Pants	9	1940.11	17460.99								
+20-04-2023	Aryan	Madurai	Tamil Nadu	South	Electronics	Laptop	16	1064.93	17038.88								
+11-02-2023	Aryan	Mumbai	Maharashtra	West	Clothing	Jacket	2	4845.74	9691.48								
+30-08-2023	Aditi	Mysuru	Karnataka	South	Groceries	Oil	3	4766.28	14298.84								
+11-03-2023	Vihaan	New Delhi	Delhi	North	Clothing	Jacket	15	3946.23	59193.45								
+08-07-2023	Riya	Ahmedabad	Gujarat	West	Clothing	Pants	12	1804.27	21651.24								
+23-11-2023	Ishita	Nagpur	Maharashtra	West	Electronics	Headphones	3	2055.45	6166.35								
+05-10-2023	Ishita	New Delhi	Delhi	North	Furniture	Bed	5	1568.68	7843.4								
+18-02-2023	Aarav	Mysuru	Karnataka	South	Furniture	Sofa	16	2288.68	36618.88								
+07-06-2023	Ananya	Madurai	Tamil Nadu	South	Furniture	Chair	12	2133.05	25596.6								
+05-04-2023	Ananya	Pune	Maharashtra	West	Groceries	Sugar	4	1208.42	4833.68								
+09-06-2023	Ananya	Dwarka	Delhi	North	Stationery	Ruler	14	630.45	8826.3								
+22-01-2023	Ishita	Nagpur	Maharashtra	West	Clothing	Dress	14	2713.47	37988.58								
+09-04-2023	Meera	Dwarka	Delhi	North	Furniture	Chair	7	3273.61	22915.27								
+20-09-2023	Ishita	Pune	Maharashtra	West	Clothing	Shirt	9	566.92	5102.28								
+19-03-2023	Aryan	Mysuru	Karnataka	South	Electronics	Laptop	2	3830.39	7660.78								
+20-11-2023	Aditi	Pune	Maharashtra	West	Electronics	Smartphone	7	4456.5	31195.5								
+18-08-2023	Meera	Chennai	Tamil Nadu	South	Stationery	Pen	15	202.66	3039.9								
+20-04-2023	Aryan	Nagpur	Maharashtra	West	Clothing	Pants	10	1018.19	10181.9								
+05-04-2023	Meera	Ahmedabad	Gujarat	West	Clothing	Pants	4	3300.36	13201.44								
+23-03-2023	Vihaan	New Delhi	Delhi	North	Clothing	Pants	12	957.01	11484.12								
+14-11-2023	Vihaan	Chennai	Tamil Nadu	South	Groceries	Rice	19	1933.19	36730.61								
+18-07-2023	Nishant	Dwarka	Delhi	North	Furniture	Chair	15	834.13	12511.95								
+18-06-2023	Aarav	Mysuru	Karnataka	South	Stationery	Pen	18	2535.82	45644.76								
+10-03-2023	Vihaan	Chennai	Tamil Nadu	South	Groceries	Oil	18	2299.93	41398.74								
+15-10-2023	Aarav	Ahmedabad	Gujarat	West	Furniture	Bed	5	606.49	3032.45								
+17-03-2023	Ishita	Hubli	Karnataka	South	Stationery	Eraser	6	1919.03	11514.18								
+02-06-2023	Meera	Hubli	Karnataka	South	Stationery	Pen	9	662.41	5961.69								
+09-01-2023	Kabir	Madurai	Tamil Nadu	South	Stationery	Notebook	18	970.52	17469.36								
+05-10-2023	Ananya	New Delhi	Delhi	North	Electronics	Smartphone	2	4112.53	8225.06								
+04-05-2023	Aarav	Mysuru	Karnataka	South	Electronics	Smartphone	4	4968.93	19875.72								
+21-12-2023	Riya	Bengaluru	Karnataka	South	Clothing	Shirt	2	339.56	679.12								
+24-07-2023	Vihaan	Mysuru	Karnataka	South	Stationery	Ruler	3	3853.05	11559.15								
+16-05-2023	Nishant	Dwarka	Delhi	North	Clothing	Dress	11	2212.9	24341.9								
+07-06-2023	Aryan	Chennai	Tamil Nadu	South	Stationery	Notebook	18	509.79	9176.22								
+05-06-2023	Kabir	Bengaluru	Karnataka	South	Furniture	Bed	16	2724.77	43596.32								
+17-06-2023	Ananya	Nagpur	Maharashtra	West	Clothing	Pants	18	4718.22	84927.96								
+14-02-2023	Ananya	Madurai	Tamil Nadu	South	Electronics	Tablet	9	4811.76	43305.84								
+07-01-2023	Meera	Chennai	Tamil Nadu	South	Furniture	Chair	8	4021.86	32174.88								
+27-01-2023	Kabir	Mysuru	Karnataka	South	Furniture	Bed	16	4008.72	64139.52								
+19-08-2023	Meera	Surat	Gujarat	West	Furniture	Chair	14	4793.38	67107.32								
+28-01-2023	Aarav	Karol Bagh	Delhi	North	Furniture	Sofa	14	4816.39	67429.46								
+17-05-2023	Ishita	Vadodara	Gujarat	West	Furniture	Table	6	4072.51	24435.06								
+12-03-2023	Riya	Mumbai	Maharashtra	West	Groceries	Oil	2	1269.81	2539.62								
+22-01-2023	Aryan	Vadodara	Gujarat	West	Groceries	Sugar	13	3071.93	39935.09								
+14-03-2023	Aditi	Ahmedabad	Gujarat	West	Clothing	Dress	5	4686.67	23433.35								
+29-10-2023	Kabir	Nagpur	Maharashtra	West	Furniture	Sofa	5	4504.17	22520.85								
+19-07-2023	Meera	Bengaluru	Karnataka	South	Furniture	Table	3	559.7	1679.1								
+13-10-2023	Nishant	Mysuru	Karnataka	South	Groceries	Rice	17	1975.71	33587.07								
+09-11-2023	Aditi	Karol Bagh	Delhi	North	Furniture	Table	8	4175.56	33404.48								
+30-01-2023	Meera	Mysuru	Karnataka	South	Electronics	Smartphone	14	2535.08	35491.12								
+04-07-2023	Ishita	Chennai	Tamil Nadu	South	Electronics	Headphones	14	2161.65	30263.1								
+06-10-2023	Ishita	Karol Bagh	Delhi	North	Electronics	Tablet	11	3424.45	37668.95								
+24-08-2023	Riya	Vadodara	Gujarat	West	Groceries	Lentils	10	1167.21	11672.1								
+26-02-2023	Aryan	Vadodara	Gujarat	West	Stationery	Ruler	7	500.63	3504.41								
+04-11-2023	Aarav	Dwarka	Delhi	North	Furniture	Chair	10	1050.84	10508.4								
+30-08-2023	Kabir	Hubli	Karnataka	South	Furniture	Sofa	14	3726.3	52168.2								
+15-10-2023	Aditi	Chennai	Tamil Nadu	South	Clothing	Pants	10	651.83	6518.3								
+28-06-2023	Riya	Pune	Maharashtra	West	Furniture	Chair	4	1077.23	4308.92								
+13-06-2023	Kabir	Dwarka	Delhi	North	Electronics	Laptop	15	4554.78	68321.7								
+26-05-2023	Ishita	Surat	Gujarat	West	Stationery	Pen	19	1003.13	19059.47								
+26-07-2023	Meera	Hubli	Karnataka	South	Groceries	Rice	7	3168.77	22181.39								
+20-02-2023	Ishita	Dwarka	Delhi	North	Stationery	Eraser	19	4528.95	86050.05								
+26-08-2023	Nishant	Hubli	Karnataka	South	Electronics	Laptop	5	2480.84	12404.2								
+05-05-2023	Aryan	New Delhi	Delhi	North	Clothing	Jacket	11	4740.79	52148.69								
+15-09-2023	Aarav	New Delhi	Delhi	North	Groceries	Lentils	16	2687.77	43004.32								
+04-08-2023	Ishita	Madurai	Tamil Nadu	South	Groceries	Rice	15	2472.8	37092								
+15-02-2023	Kabir	New Delhi	Delhi	North	Furniture	Table	3	3814.12	11442.36								
+21-02-2023	Kabir	Ahmedabad	Gujarat	West	Furniture	Bed	1	2333.78	2333.78								
+27-01-2023	Aditi	Nagpur	Maharashtra	West	Groceries	Lentils	10	2628.56	26285.6								
+30-09-2023	Nishant	Madurai	Tamil Nadu	South	Electronics	Headphones	16	284.02	4544.32								
+29-08-2023	Riya	Bengaluru	Karnataka	South	Groceries	Rice	8	1011.67	8093.36								
+08-03-2023	Aryan	Karol Bagh	Delhi	North	Groceries	Sugar	6	3918.07	23508.42								
+23-11-2023	Riya	Mysuru	Karnataka	South	Clothing	Shirt	2	3313.63	6627.26								
+23-02-2023	Ananya	Coimbatore	Tamil Nadu	South	Clothing	Pants	18	809.24	14566.32								
+18-04-2023	Nishant	Dwarka	Delhi	North	Groceries	Oil	2	2338.61	4677.22								
+25-03-2023	Kabir	Hubli	Karnataka	South	Groceries	Oil	18	2773.93	49930.74								
+09-03-2023	Aditi	Pune	Maharashtra	West	Groceries	Sugar	15	2540.06	38100.9								
+26-05-2023	Meera	Karol Bagh	Delhi	North	Clothing	Dress	4	1178.71	4714.84								
+22-12-2023	Aryan	Coimbatore	Tamil Nadu	South	Groceries	Lentils	4	4724.33	18897.32								
+21-08-2023	Aryan	New Delhi	Delhi	North	Electronics	Smartphone	7	3481	24367								
+16-10-2023	Kabir	Ahmedabad	Gujarat	West	Furniture	Table	16	4608.55	73736.8								
+28-10-2023	Ananya	Pune	Maharashtra	West	Electronics	Tablet	10	2336.88	23368.8								
+24-11-2023	Meera	Chennai	Tamil Nadu	South	Stationery	Notebook	1	2993.55	2993.55								
+17-10-2023	Riya	Madurai	Tamil Nadu	South	Clothing	Shirt	19	4080.77	77534.63								
+13-08-2023	Vihaan	Hubli	Karnataka	South	Clothing	Jacket	4	3659.61	14638.44								
+07-02-2023	Ishita	New Delhi	Delhi	North	Clothing	Jacket	12	1819.46	21833.52								
+28-09-2023	Aditi	Chennai	Tamil Nadu	South	Electronics	Smartphone	13	3520.87	45771.31								
+22-02-2023	Riya	Coimbatore	Tamil Nadu	South	Groceries	Oil	14	4532.88	63460.32								
+26-01-2023	Ishita	Nagpur	Maharashtra	West	Furniture	Bed	6	1709.52	10257.12								
+29-11-2023	Kabir	Bengaluru	Karnataka	South	Clothing	Dress	10	3803.22	38032.2								
+02-01-2023	Ananya	Bengaluru	Karnataka	South	Stationery	Notebook	15	1853	27795								
+04-02-2023	Kabir	Mumbai	Maharashtra	West	Clothing	Pants	2	2623.43	5246.86								
